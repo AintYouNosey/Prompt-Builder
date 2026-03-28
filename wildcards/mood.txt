@@ -1,0 +1,18 @@
+confident expression, (strong pose:1.2), assertive, self-assured, power stance, direct gaze, chin up
+(determined mood:1.2), resolute, unwavering, focused intensity, eyes forward, mission-ready, battle will
+(dreamy expression:1.2), soft unfocused gaze, lost in thought, daydreaming, faraway look, gentle dreamy smile, starry eyes, wistful dreaming
+elegant expression, (refined smile:1.2), graceful, poised, sophisticated, aristocratic bearing, serene confidence
+(excited expression:1.2), bright eyes, big smile, energetic expression, thrilled look, enthusiastic, sparkling eyes, happy excitement
+(exhausted expression:1.2), dark circles under eyes, tired eyes, burnout look, drained expression, bags under eyes
+fierce expression, (battle aura:1.2), intense glare, battle-ready, determined anger, warrior spirit, sharp eyes
+focused expression, (intense concentration:1.2), determined focus, eyes locked on target, deep in thought focus, task-oriented expression, absorbed
+haunted expression, (traumatized look:1.2), hollow eyes, thousand yard stare, ghost of past, shell-shocked, deeply disturbed, empty stare
+melancholic expression, (sad eyes:1.2), wistful, distant look, pensive, thoughtful sorrow, gentle tears, lonely
+mysterious expression, (enigmatic smile:1.2), half-lidded eyes, knowing look, secretive, aloof, distant gaze
+playful expression, (bright smile:1.2), winking, mischievous grin, energetic, lively, tongue out slightly, happy
+(predatory expression:1.2), hunter watching prey, cold calculation, stalking gaze, apex predator energy, dangerous calm, locked on target
+(reverent expression:1.2), awe and respect, sacred feeling, in the presence of something greater, worshipful, humble awe, devotion
+(righteous anger:1.2), holy rage, justified fury, moral anger, outrage, righteous wrath, defending the innocent energy, noble anger
+serene expression, peaceful smile, calm eyes, tranquil, at ease, meditative, gentle warmth, inner peace
+shy expression, (blushing:1.2), fidgeting, looking away, timid, embarrassed smile, hand to cheek, downcast eyes
+sleepy expression, half-closed eyes, drowsy, tired eyes, yawning, sleepy smile, groggy, just woke up look, pillow marks on face

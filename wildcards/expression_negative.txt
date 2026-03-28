@@ -1,0 +1,16 @@
+playful, shy, laughing
+smiling, gentle, warm
+energetic, bright-eyed, cheerful
+angry, sad, fierce, cold
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+sad, serious, stoic, fierce
+calm, serene, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+laughing, cheerful, energetic
+smiling, laughing, serene
+confident, smug, fierce
+innocent, shy, crying
+emotional, expressive, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+calm, serene, bored
+calm, peaceful, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+serious, crying, fierce
+normal expression, warm, friendly

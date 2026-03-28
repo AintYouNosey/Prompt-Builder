@@ -1,0 +1,18 @@
+shy, timid, scared, withdrawn
+relaxed, uncertain, lost
+sharp, alert, focused, fierce
+rough, messy, chaotic, casual, sporty
+calm, serious, stoic, melancholic
+energetic, bright, cheerful
+gentle, shy, cute, playful
+distracted, laughing, sleepy
+happy, cheerful, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cheerful, laughing, energetic
+cheerful, open, expressive, laughing
+serious, cold, stoic, melancholic
+friendly, warm, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dismissive, bored, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+calm, neutral, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+aggressive, fierce, anxious, chaotic
+confident, dominant, aggressive, cold
+energetic, alert, fierce

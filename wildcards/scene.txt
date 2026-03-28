@@ -1,0 +1,89 @@
+abandoned hospital, (decaying medical facility:1.2), peeling paint, broken equipment, dark corridors, rusty beds, overgrown decay, horror hallway
+airport terminal, (international airport:1.2), departure gates, travelers with luggage, large windows, flight boards, modern airport
+alien planet surface, (extraterrestrial landscape:1.2), strange sky color, alien flora, two moons, exotic terrain, otherworldly rocks, sci-fi landscape
+ancient Egypt, (Egyptian temple exterior:1.2), pyramids, hieroglyphs, stone columns, pharaoh statues, desert sun, sarcophagus hall
+ancient Greece, (Greek agora:1.2), white marble, Parthenon view, philosophers gathered, toga robes, Mediterranean blue sky, olive trees
+ancient Roman forum, (Roman public square:1.2), marble columns, toga-wearing citizens, Senate building, Mediterranean sunlight, ancient Rome
+ancient temple interior, (stone columns:1.2), torchlight, carved reliefs, ancient civilization, temple hall, overgrown stones, mystical atmosphere
+apartment balcony, (city view balcony:1.2), urban skyline, potted plants, evening view, city lights below, cozy outdoor space
+retro arcade, (video game arcade:1.2), rows of arcade machines, neon glow, dark interior, pixel game screens, 80s arcade, token machines
+art studio, painter's studio, easels, canvas, paint tubes, art supplies, wooden floor studio, artist workspace, creative studio, paint-stained walls
+cozy bakery, bread shelves, pastry display, warm bakery interior, wooden counters, baked goods, flour dusted surfaces, morning bakery, oven glow
+grand ballroom, chandeliers, marble floor, elegant decor, gold trim, formal setting, dance floor, tall windows
+ancient battlefield, (war-torn field:1.2), aftermath of battle, broken weapons, smoke, fallen soldiers, historical war scene, epic battle plain
+beach, ocean, sandy shore, waves, blue sky, palm trees, sunny day, sea breeze
+bedroom, bed, pillows, soft lighting, cozy room, window with curtains, nightstand
+burning building, (structure on fire:1.2), flames and smoke, fire engulfing walls, glowing embers, dramatic fire light, danger, smoke-filled
+bus stop in rain, (rainy bus shelter:1.2), umbrella, wet streets, passing headlights, rain on glass, waiting alone, melancholic urban
+cafe interior, coffee shop, wooden tables, warm lighting, coffee cups, window seat, cozy atmosphere
+city street at night, urban night scene, streetlights, wet pavement reflections, night city street, neon signs, downtown night, urban nightlife
+convenience store at night, (konbini interior:1.2), fluorescent lights, snack aisles, late night shopping, Japanese convenience store, empty aisles
+crystal cave, (crystal cavern:1.2), giant crystals, prismatic light, underground gems, glowing minerals, cave crystals, mineral formations
+cult chamber, (occult ritual room:1.2), candles in circle, arcane symbols, dark altar, hooded figures optional, ritual space, forbidden ceremony
+cyberpunk city, neon lights, rainy streets, towering skyscrapers, holographic ads, futuristic urban, neon reflections
+dark basement, (damp underground room:1.2), concrete walls, dripping water, single bare bulb, shadows in corners, horror basement, chains
+dark forest path, (twisted gnarled trees:1.2), winding path, forest shadows, dappled moonlight, foreboding woods, ancient forest, creeping roots
+decrepit church, (ruined gothic church:1.2), broken stained glass, fallen pews, altar with candles, crumbling stone, dark sacred space
+desert oasis, (palm trees in desert:1.2), sand dunes, water pool, caravans, hot sun, Middle Eastern desert, mirage, arid landscape
+dragon lair, (cave with gold hoard:1.2), scattered treasure, dragon bones, glowing crystals, enormous cavern, fantasy dungeon, treasure pile
+enchanted grove, (magical glowing forest:1.2), bioluminescent plants, fairy lights, ancient magical trees, mystical clearing, nature magic
+ancient ruins, crumbling stone, overgrown vines, broken columns, ethereal mist, forgotten temple, mystical atmosphere
+floating islands, (sky islands:1.2), islands in the clouds, waterfalls falling off edges, aerial view, fantasy sky world, cloud bridges
+flooded ruins, (submerged building interior:1.2), water covering floor, waterlogged decay, flooded corridor, reflections in water, post-disaster
+foggy cemetery, (graveyard in fog:1.2), tombstones, dead trees, low fog, iron fence, moonlit graves, crumbling mausoleum, ominous night
+foggy swamp, (murky bayou:1.2), gnarled cypress trees, Spanish moss, stagnant water, fog, eerie swamp, lantern light, voodoo territory
+enchanted forest, tall trees, dappled light, mossy ground, nature, woodland path, soft sunlight through leaves
+frozen arctic ruins, (ice-covered ancient structure:1.2), frozen wasteland, buried ruins under ice, arctic isolation, blizzard approaching, abandoned
+flower garden, blooming garden, flower beds, garden path, rose garden, colorful flowers, botanical garden, outdoor flower setting, garden bench
+gothic castle, stone walls, stained glass, torchlight, grand hall, stone pillars, dark atmosphere, medieval interior
+glass greenhouse, botanical garden, plants everywhere, glass ceiling, tropical plants, garden conservatory, lush interior
+gym interior, (modern fitness gym:1.2), weight equipment, mirrors, treadmills, gym lighting, workout space, fitness center
+harbor port, (fantasy or historical harbor:1.2), sailing ships, docks, rigging, sea port, fishermen, seagulls, coastal town
+haunted mansion, (Victorian haunted house:1.2), crumbling estate, broken windows, spider webs, dark hallways, creaking floors, abandoned grandeur
+holographic room, (holo displays:1.2), floating screens, data visualization, neon holograms, control room, digital interface, cyber command
+outdoor hot spring, onsen, steam rising, rocks, bamboo, natural pool, peaceful nature, mountain backdrop
+Japanese izakaya, (izakaya bar interior:1.2), wooden counter, sake bottles, paper lanterns, warm lighting, cozy Japanese bar, after-work drinks
+feudal japan, japanese architecture, torii gate, paper lanterns, wooden bridge, night atmosphere, traditional setting
+rocket launch pad, (space launch facility:1.2), massive rocket, launch tower, steam venting, mission control, space program, countdown
+grand library, bookshelves to ceiling, reading tables, warm lamp light, ancient books, wooden ladders, quiet atmosphere
+(liminal space:1.3), empty corridor, abandoned pool, empty hallway, eerie empty space, backrooms aesthetic, transitional space
+magic academy, (wizarding school:1.2), floating books, arcane classroom, magical library, floating candles, runes on walls, alchemy lab
+medieval town square, (cobblestone market:1.2), half-timbered buildings, market stalls, well, town crier, medieval crowds, European town
+mirror room, (infinite mirrors:1.2), reflections infinitely, disorienting space, broken mirrors, psychological horror, carnival mirror hall
+mountain peak, panoramic view, clouds below, dramatic sky, rocky summit, wind, vast horizon
+neon megacity, (cyberpunk street level:1.2), massive skyscrapers, holographic ads, rain-slick streets, neon signs, crowded urban future
+night market, (Asian night market:1.2), food stalls, lanterns, crowds, street food, vendors, neon signs, lively evening market
+observatory, telescope, domed ceiling, star charts, astronomy equipment, space observation room, glass dome ceiling, night sky visible, planetarium
+modern office, desk, computer, city view through window, professional environment, clean corporate space
+overgrown asylum, (abandoned psychiatric hospital:1.2), nature reclaiming, vines through windows, old padded rooms, faded medical decor, decay
+park bench in autumn, (fall park scene:1.2), falling leaves, golden trees, peaceful park, solitary bench, autumn colors, quiet moment
+pirate ship deck, (galleon deck:1.2), wooden planks, rigging, cannon ports, sea waves, jolly roger, ocean horizon, pirate crew
+post-nuclear wasteland, (irradiated ruins:1.2), destroyed city ruins, dead trees, ash sky, rusted cars, fallout world, desolate landscape
+looking through rainy window, rain on glass, window with raindrops, cozy indoor rainy day, rain streaks on window, indoor watching rain
+Renaissance workshop, (artist atelier:1.2), paintings on walls, sculpting tools, Italian architecture, creative space, Renaissance Italy
+research laboratory, (sci-fi lab:1.2), test tubes, holographic screens, sterile white environment, scientists, experiment chambers, advanced tech
+rooftop garden, (urban garden rooftop:1.2), plants and flowers, city skyline background, terrace garden, peaceful urban oasis, sunset view
+rooftop at night, city skyline below, rooftop edge, urban rooftop, city lights below, night city view from above
+royal palace hall, (grand throne hall:1.2), marble columns, red carpet, golden decor, banners hanging, opulent interior, royal court
+overgrown ruins, nature reclaiming building, ivy covered walls, crumbling structure, post-urban nature, moss and vines
+school classroom, desks, blackboard, chalk, school windows, afternoon light, empty classroom
+server room, (data center:1.2), rows of servers, blinking lights, cooling fans, blue light, network infrastructure, digital backbone
+shopping mall, (modern retail mall:1.2), escalators, brand stores, food court, shoppers, mall interior, commercial space, fountain
+Silk Road caravan, (desert trading route:1.2), camels, traders, Middle Eastern markets, ancient trade route, oasis stop, merchant tents
+snowy path, snow-covered trail, winter path, walking through snow, snowflakes falling, bare trees in snow, silent snowy landscape, deep snow
+space colony dome, (biodome on planet:1.2), transparent dome, cultivated interior, humans living in space, colony buildings, terraformed interior
+space debris field, (satellite graveyard:1.2), floating wreckage, old satellites, space junk, Earth in background, zero gravity debris
+space station interior, (zero gravity corridor:1.2), white futuristic panels, space windows with stars, sci-fi hallway, space base interior
+concert stage, spotlight, stage lights, microphone, audience silhouette, performance venue, dramatic stage lighting
+submarine interior, (deep sea vessel:1.2), porthole windows, dark ocean outside, cramped quarters, sonar room, bioluminescent creatures outside
+tavern interior, (medieval inn:1.2), wooden beams, fireplace, ale mugs, rowdy atmosphere, candle sconces, adventurer hangout, bar counter
+throne room, grand throne, ornate hall, royal chamber, imposing seat of power, regal interior
+train station platform, (commuter rail platform:1.2), trains passing, platform crowds, station signs, rushing commuters, metro station
+underground bunker, (military bunker interior:1.2), reinforced concrete, emergency lighting, blast doors, survival shelter, post-apocalyptic safe room
+underground dungeon, (stone cell corridor:1.2), iron bars, torch sconces, dungeon corridor, dark stone walls, chains, medieval prison
+vehicle interior, train window seat, car backseat, bus window, subway car, rain on window, night driving atmosphere
+Victorian street, (Victorian era London:1.2), gas lamps, horse carriages, cobblestone, Victorian architecture, top hats, fog, 1800s London
+fantasy village market, (medieval marketplace:1.2), market stalls, cobblestone, merchants, colorful banners, village square, fantasy town
+WW2 trench, (wartime trench:1.2), muddy battlefield, barbed wire, soldiers, sandbags, grey sky, WWI or WWII warfare, war atmosphere
+wild west town, (frontier town main street:1.2), saloon, wooden buildings, dusty road, hitching posts, wanted posters, cowboy era
+wizard tower, (sorcerer's study:1.2), spiral stairs, magical artifacts, glowing orbs, star charts, telescope, arcane library, tower top

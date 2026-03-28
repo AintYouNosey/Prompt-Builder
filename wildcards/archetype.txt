@@ -1,0 +1,56 @@
+1girl, alchemist, (alchemist robe:1.2), potion bottles, mortar and pestle, mystical ingredients, alchemy lab, apron, glowing potions, flask
+1girl, noblewoman, aristocrat, (ornate gown:1.3), elbow gloves, (noble bearing:1.2), fan in hand, jeweled accessories, powdered wig optional, upper class attire, refined posture
+1girl, assassin, (dark hood:1.2), hidden blades, dark cloak, stealth outfit, rogue attire, shadow operative, masked lower face
+1person, astronaut, (space suit:1.2), helmet, NASA-style or futuristic suit, cosmonaut, space explorer, zero gravity, tethered cable
+1person, bard, (lute musician:1.2), colorful medieval clothes, performer, storyteller, traveling musician, jester-adjacent, tavern performer
+1girl, bunny ears, bunny girl outfit, leotard, fishnet stockings, bowtie, wrist cuffs, high heels, bunny tail
+1girl, cat ears, cat tail, nekomimi, (collar:1.2), feline features, cat-like eyes, paws optional, kemonomimi
+1girl, cheerleader, (pom poms:1.2), short cheer skirt, team uniform, athletic top, sports colors, energetic pose
+1person, cursed knight, (corrupted armor:1.2), dark aura, fallen warrior, tainted soul, black armor with cracks, hollow eyes, dark paladin
+1girl, demon queen, dark crown, (dark armor:1.2), large dark wings, glowing red or purple eyes, imposing presence, dark cape, queen of darkness
+1girl, detective, (detective coat:1.2), magnifying glass, fedora optional, trench coat, investigator, noir detective, badge, sharp eyes
+1girl, elf, pointy ears, ranger outfit, leather armor, bow and arrow, (forest attire:1.2), quiver, hood, elven jewelry
+1person, exorcist, (holy symbols:1.2), priest or shaman attire, sacred text, ritual tools, spiritual authority, casting out evil, determined
+1girl, fairy, (tiny fairy wings:1.3), small size, fairy dust, flower petal dress, magical fairy, glowing wings, nature fairy, pixie
+1girl, fortune teller, (crystal ball:1.3), mystic veil, tarot cards, mysterious robes, henna, coin jewelry, mystical gaze, tent backdrop
+1person, gladiator, (arena fighter:1.2), combat armor, shield and sword, Roman arena, battle stance, warrior champion, crowd cheering
+1girl, hacker, netrunner, (glowing neural implants:1.2), holographic displays, wired headset, typing on holographic keyboard, cyberpunk techwear, (data streams:1.1)
+1girl, idol, (colorful stage outfit:1.2), microphone, sparkling costume, glitter, bow accessories, cute performer, stage presence
+1girl, female knight, (plate armor:1.3), sword and shield, paladin, holy knight, armored knight, heroic knight, full plate armor, visor optional
+1girl, kunoichi, female ninja, (ninja outfit:1.2), black ninja garb, mask over lower face, arm guards, kunai, wrapped hands
+1girl, librarian, (cardigan:1.2), books stacked, reading glasses, quiet demeanor, bun hairstyle, surrounded by books, library setting, bookish
+1person, mad scientist, (wild hair:1.2), lab coat, goggles, manic expression, dangerous experiment, tesla coil sparks, eccentric genius
+1girl, magical girl, (frilly costume:1.2), magical wand, transformation outfit, ribbons, stars, sparkles, pastel colors, heart accessories
+1girl, maid outfit, frilly maid dress, white apron, maid headdress, black and white uniform, collar, long sleeves
+1boy, blacksmith, (forge master:1.2), leather apron, muscular arms, soot-stained, hammer in hand, craftsman, metalworker, anvil nearby
+1boy, bounty hunter, (wanted poster aesthetic:1.2), rugged male, rifle or pistol, duster coat, wild west or sci-fi, hunter stance
+1boy, male detective, (trench coat:1.2), fedora, cigarette optional, sharp eyes, investigator, noir detective, private eye, magnifying glass
+1boy, king, (royal crown:1.2), throne room, regal robes, commanding presence, monarch, emperor, dignified ruler, majestic male
+1boy, male mage, wizard, sorcerer, (magical staff:1.2), robes, arcane symbols, glowing eyes, mystic, spellcaster, male magic user
+1boy, mercenary, (battle-worn mercenary:1.2), mixed armor, weapons visible, rugged male, hired soldier, bounty coat, veteran fighter
+1boy, male priest, holy man, cleric, religious robes, cross symbol, divine aura, solemn expression, monk robe, ecclesiastical
+1boy, rogue, (hooded rogue:1.2), leather armor, daggers, assassin stance, street thief, shadow operative, male thief, dark cloak
+1boy, sailor, (naval uniform:1.2), captain hat, seafarer, ocean man, ship crew, weathered face, maritime clothing, anchor motif
+1boy, male scholar, academic, professor, (spectacles:1.2), book in hand, studious, intellectual, university robes, learned man
+1boy, male warrior, (muscular male:1.2), battle-worn armor, scarred, strong build, weapon in hand, soldier, fighter, male protagonist
+1girl, mechanic, engineer, (grease stains:1.2), overalls, work gloves, wrench in hand, goggles pushed up, industrial outfit, oil marks, utility belt
+1girl, mermaid, (mermaid tail:1.3), scales, upper body clothed, seashell top, underwater, flowing hair, fin tail, aquatic beauty
+1person, monk, (monk robes:1.2), shaved head or cloth wrap, meditation, martial arts, Buddhist or fantasy monk, inner peace, training gi
+1person, nomad, (desert traveler:1.2), wrapped robes, travel-worn, wanderer, desert nomad, road warrior, lone traveler, satchel and staff
+1girl, nun, (religious habit:1.2), black and white habit, rosary, cross necklace, white wimple, modest clothing, church attire
+1girl, nurse, (nurse uniform:1.2), nurse cap, medical cross, stethoscope, hospital attire, nurse outfit, caring expression, scrubs optional
+1girl, office lady, (business suit:1.2), pencil skirt, blazer, dress shirt, professional attire, heels, briefcase
+1girl, female pirate captain, (tricorn hat:1.2), pirate coat, cutlass, pirate outfit, naval pirate, bandana, boots, seafaring attire
+1girl, princess, (royal gown:1.2), tiara, princess attire, royal dress, elegant princess, castle background optional, graceful royalty
+1girl, female samurai, (samurai armor:1.2), katana, traditional japanese armor, do-maru armor, samurai attire, female warrior Japan
+1girl, scientist, (lab coat:1.2), test tubes, laboratory equipment, goggles on head, research equipment, beaker, (science lab:1.1), whiteboard
+1girl, miko, shrine maiden, (white haori:1.2), red hakama, ofuda, hair ribbon, traditional japanese clothing, tabi socks
+1person, modern soldier, (military uniform:1.2), tactical gear, combat uniform, military operative, armed forces, camouflage, serious expression
+1girl, space pilot, (pilot suit:1.2), cockpit, spacesuit, astronaut, futuristic pilot, space academy uniform, helmet under arm, space ship
+1person, street artist, graffiti artist, (spray paint can:1.2), urban wear, creative, urban art culture, hoodie, artistic
+1girl, succubus, demon girl, (small horns:1.2), demon wings, spaded tail, dark elegant outfit, otherworldly beauty, glowing eyes
+1girl, teacher, (formal teacher attire:1.2), pointer stick, glasses, chalkboard, lesson, stern but kind teacher, educator, school teacher
+1person, undead warrior, skeleton soldier, (undead knight:1.2), decayed armor, hollow skull eyes, risen dead, lich warrior, bone armor
+1person, vampire hunter, (Van Helsing style:1.2), long coat, crucifix, wooden stakes, holy water, monster hunter gear, determined grimace
+1girl, female warrior, (fantasy armor:1.2), pauldrons, gauntlets, sword, shield, battle-worn, heroic stance, cape
+1girl, witch, (witch hat:1.3), dark robe, spell book, broomstick, magic staff, crescent moon accessories, mysterious cloak

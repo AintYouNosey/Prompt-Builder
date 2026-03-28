@@ -1,0 +1,30 @@
+(mid-strike pose:1.2), weapon swing, punch or kick, attack motion, dynamic combat, action moment, fighting pose with impact
+(arms crossed:1.2), crossed arms pose, defensive stance, arms folded, assertive arms crossed, closed body language
+1girl, (arms raised:1.2), hands above head, arms up, celebrating or stretching, raised arms
+1girl, (facing away:1.3), back to viewer, seen from behind, rear view, turning away from camera
+(spell casting pose:1.2), hands raised with energy, magical hand gesture, power emanating, magic circle around hands, arcane pose
+1girl, (crouching:1.2), low crouch, squatting down, knees bent deep, low to ground
+1girl, (defensive stance:1.3), guard stance, arms raised in defense, fighting guard, protective pose
+(collapsed from exhaustion:1.2), slumped, barely standing, knees on ground, battered but alive, weary warrior, battle exhaustion
+(falling pose:1.2), freefall, tumbling, desperate reach, dramatic drop, wind rushing up, hair streaming up, plummeting
+(flying pose:1.2), airborne, cape spread, arms extended, soaring, levitation, wind effect on clothes, mid-flight, gliding
+1girl, (hands on hips:1.2), both hands on waist, akimbo stance, confident hip pose
+(head tilted:1.2), head tilt, curious head tilt, quizzical tilt, tilted head look, slight head incline, head cocked sideways
+(heroic standing pose:1.2), cape billowing, wind from below, powerful stance, hero pose, arms at side confident, protagonist stance
+1girl, (jumping:1.3), mid-air, leaping, airborne, feet off ground, jump pose
+(kneeling:1.2), kneel pose, one knee down, both knees down, kneeling position, reverent kneel, warrior kneeling, bowing kneeling
+(leaning against wall:1.2), wall lean pose, casual wall lean, hip against wall, shoulder to wall, relaxed lean, slouching against wall
+(looking back over shoulder:1.3), glancing back, over shoulder look, head turned back, backward glance, looking behind, coy backward glance
+1girl, (lying down:1.2), horizontal position, reclined, resting on surface, prone or supine
+(reaching out hand:1.2), extended hand toward viewer, offering hand, grasping, desperate reach, calling out, outstretched arm
+1girl, (running:1.3), mid-run, dynamic motion, feet leaving ground, running pose, in motion
+(seated on throne:1.2), regal sitting position, one leg up, arm on armrest, commanding seated pose, ruler sitting, dominance from seat
+1girl, (sitting on chair:1.2), chair seated, sitting upright on seat, leg cross optional
+1girl, (sitting on edge:1.2), perched on edge, feet dangling, sitting at ledge, edge of surface
+1girl, (sitting on floor:1.2), cross-legged, floor sitting, casual floor seat, legs folded
+(sneaking crouch:1.2), low profile movement, stealth pose, tiptoeing, peering around corner, rogue stance, careful movement
+1girl, (standing relaxed:1.2), weight on one leg, casual stance, natural standing, hip slightly out
+1girl, (hand on chin:1.2), thinking pose, finger to chin, contemplative hand gesture, pondering
+(victory pose:1.2), arms raised in triumph, celebrating win, champion gesture, fist pump, triumphant stance, winner pose
+1girl, (mid-walk:1.2), walking, stepping forward, stride, caught mid-step, walking pose
+1girl, (waving hand:1.2), greeting wave, hand raised in wave, hello gesture

@@ -1,0 +1,13 @@
+(ancient tome:1.2), old leather book, spell book, grimoire, forbidden book, thick ancient text, cracked spine, glowing pages optional
+(bicycle:1.2), riding bicycle, bike, leaning on bicycle, city bike, basket bike, cycling, vintage bicycle
+(large book:1.2), open tome, reading book, old leather book, magic tome, held book
+(vintage camera:1.2), film camera, holding camera, old camera, photography prop
+(candle or candelabra:1.2), wax dripping candle, candleholder, multiple candles, gothic candelabra, flickering flame, candle light source
+(flower bouquet:1.3), holding bouquet, bunch of flowers, roses bouquet, wildflower bundle, wrapped flowers, bouquet in arms
+(acoustic guitar:1.3), guitar in hands, playing guitar, strumming, guitar on back, electric guitar optional, musician prop, musical instrument
+(paper lantern:1.2), holding lantern, glowing lantern, Japanese paper lantern, candle lantern, warm lantern glow, lantern light
+(potion vials:1.2), glass vials with colored liquid, alchemical bottles, magic potion, experimental flask, colored bubbling liquid
+(magical staff:1.2), wizard staff, glowing orb on staff, carved wood staff, arcane focus, mage staff, ancient staff
+(sword prop:1.2), drawn sword, blade gleaming, ornate hilt, sword held, weapon display, fantasy or historical sword, katana optional
+(teacup:1.2), holding teacup, drinking tea, porcelain cup, tea saucer, afternoon tea
+(umbrella:1.3), open umbrella, parasol, holding umbrella, rain umbrella, transparent umbrella, colorful umbrella, parasol tilted

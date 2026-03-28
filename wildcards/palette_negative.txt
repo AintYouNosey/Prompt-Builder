@@ -1,0 +1,12 @@
+warm, golden, earthy
+full color, multicolor, realistic
+low contrast, flat, washed out
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+natural color, realistic tones
+colorful, vibrant, saturated
+vibrant, saturated, neon
+vibrant, saturated, neon, cold
+monochrome, pastel, flat
+natural colors, earthy, muted
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cold, blue, neon, desaturated

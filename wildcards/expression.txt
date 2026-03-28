@@ -1,0 +1,16 @@
+(determined expression:1.3), set jaw, focused eyes, resolute, unwavering gaze, battle will, strong-willed look
+(expression of disgust:1.3), wrinkled nose, sneering, disdainful look, contemptuous expression, raised upper lip, cold dismissal
+(exhausted face:1.2), heavy lidded eyes, dark circles, tired look, sleepy exhausted, worn out expression
+(gentle smile:1.2), soft smile, warm eyes, kind expression, approachable, natural beauty, subtle happiness
+(knowing smirk:1.2), I know something you don't, secret keeper face, sly grin, mysterious amusement, enigmatic smile, cunning look
+(laughing:1.2), open laughter, joyful expression, eyes crinkled, genuine laugh, carefree, full smile
+(manic grin:1.3), unhinged smile, wide eyes and grin, villain laugh, Joker-esque, insane expression, too many teeth, manic joy
+(pensive expression:1.2), thoughtful look, hand to chin, contemplating, introspective gaze, subtle frown
+(pouting:1.3), puffed cheeks, sulking expression, childish pout, stubborn face, arms crossed expression, slightly furrowed brow
+(blushing:1.3), shy smile, rosy cheeks, embarrassed, hand to face, averted gaze, flustered
+(smug expression:1.3), smirk, self-satisfied grin, knowing smile, one eyebrow raised, cocky look
+(stoic expression:1.2), emotionless face, blank stare, cold eyes, unreadable face, deadpan, no emotion visible, stone-faced
+(surprised expression:1.3), wide eyes, open mouth slightly, eyebrows raised, startled, shocked, taken aback
+(terror expression:1.3), wide eyes of fear, screaming horror, pure terror face, extreme fear, horror movie face, blood-curdling fear
+(winking:1.3), one eye closed, playful wink, coy look, finger gun optional, charming gesture
+(yandere expression:1.3), empty stare, blank obsessive eyes, unsettling smile, yandere look, glassy eyes

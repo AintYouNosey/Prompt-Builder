@@ -1,0 +1,13 @@
+(baby dragon companion:1.2), small dragon, dragon hatchling, tiny winged lizard, fire-breathing baby, dragon on shoulder, egg nearby
+(rabbit companion:1.2), pet rabbit, bunny held, small rabbit, white rabbit
+cat companion, cat sitting nearby, cat on shoulder, fluffy cat, feline companion, cat looking at viewer
+(raven companion:1.2), crow on shoulder, black bird familiar, dark bird perched
+dog companion, puppy, dog by side, fluffy dog, loyal companion, dog looking up
+spirit companion, magical familiar, glowing orb spirit, fairy companion, ethereal spirit, floating companion
+(fox companion:1.2), pet fox, fox sitting nearby, small fox, fox familiar
+(horse companion:1.2), loyal horse, steed beside character, cavalry horse, horse nuzzling, faithful mount, war horse at rest
+(mechanical companion:1.2), small robot, drone companion, floating robot, mechanical familiar
+(owl companion:1.2), owl on shoulder, perched owl, wise owl familiar, owl bird
+small dragon companion, tiny dragon on shoulder, baby dragon, cute dragon familiar, pocket dragon
+(pet snake:1.2), snake wrapped around arm, serpent companion, snake charmer, exotic reptile, coiled snake, scaled companion
+(dire wolf companion:1.2), large wolf companion, wolf mount, loyal wolf beast, wolf ally

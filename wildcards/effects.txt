@@ -1,0 +1,14 @@
+(floating:1.3), zero gravity, levitating, weightless, hair floating up, clothes floating, suspended in air, anti-gravity
+(flying debris:1.2), petals in wind, leaves swirling, sparks flying, paper scraps airborne, embers, floating particles
+(motion blur:1.3), speed blur, movement blur, action blur, dynamic motion, fast movement implied
+(water splash:1.3), splashing water, water droplets, water impact, wet spray, water dynamics
+(hair blowing in wind:1.3), wind effect on clothing, fabric billowing, wind-blown hair, clothes fluttering, dynamic wind, dramatic wind effect
+(stylized blood splatter:1.2), action movie blood spray, comic book blood, red splash effect, graphic novel blood, dramatic wound, not photorealistic
+(digital glitch effect:1.2), pixel corruption, data glitch, digital artifact, scan line errors, RGB split, corrupted image effect
+(magical particles:1.2), sparkle particles, magical energy motes, glowing dust particles, arcane sparks, particle effect, light motes
+(bloom effect:1.2), soft glow, light bloom, glowing highlights, luminous edges, soft luminosity
+(bokeh:1.2), depth of field, blurred background, out of focus background, circular bokeh, shallow focus
+(chromatic aberration:1.2), color fringing, RGB shift, lens distortion edges, color split effect
+(film grain:1.2), grain overlay, analog noise, vintage film texture, grainy photograph look
+(lens flare:1.2), light flare, anamorphic flare, optical flare, sun flare, light streak
+(vignette:1.1), darkened edges, frame vignette, cinematic vignette, dark corners

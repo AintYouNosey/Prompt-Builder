@@ -1,0 +1,17 @@
+1girl, androgynous, (androgynous features:1.2), gender-ambiguous, soft masculine features, neutral body, slim androgynous figure, boyish feminine
+1girl, battle scars, scar on face, warrior scars, healed wound scars, tough survivor look
+creature, beast form, (monstrous body:1.2), non-human proportions, claws, scales or fur, beast physique, monster body, creature design
+1person, elderly, (aged face:1.2), wrinkles, grey hair, weathered skin, wise elder, old person, experienced face, age lines
+1girl, freckles, freckled skin, natural skin, sun freckles, light freckles across nose and cheeks
+1girl, hourglass figure, perfect proportions, slim waist, wide hips, long legs, graceful build, toned
+1boy, male, average male build, normal physique, everyday man, regular body type, masculine features, realistic male proportions
+1boy, male, (muscular male:1.3), defined muscles, broad shoulders, athletic build, strong physique, gym body, masculine power
+1boy, male, slim male, lean build, slender physique, elegant male frame, narrow shoulders, boyish figure, lithe male
+1boy, male, stocky build, broad and solid, dwarf-like proportions, compact powerful frame, barrel chest, sturdy male
+1girl, mature female, adult woman, (mature face:1.2), elegant mature beauty, refined features, womanly figure
+1girl, athletic body, toned, (defined muscles:1.2), fit, strong arms, abs, muscular legs, powerful build
+1girl, pear body shape, (wide hips:1.3), narrow shoulders, bottom-heavy figure, wider lower body, slimmer upper body, natural pear silhouette
+1girl, petite, small frame, delicate body, slim, tiny waist, short stature, slender limbs, dainty
+1person, superhero physique, (impossibly muscular:1.2), heroic build, comic book proportions, cape ready, power stance, chiseled features
+1girl, tall, long legs, statuesque, lean figure, elegant build, long neck, refined posture, model proportions
+1girl, voluptuous, thick thighs, wide hips, (curvy body:1.3), plump, soft body, hourglass figure, meaty thighs, smooth skin

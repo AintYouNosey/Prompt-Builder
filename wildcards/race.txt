@@ -1,0 +1,25 @@
+angel, white feathered wings, halo, divine light, angelic beauty, heavenly features, graceful wings
+centaur, (half human half horse:1.2), horse lower body, human upper body, equine hybrid, centaur warrior, fantasy centaur
+dark elf, drow, dark skin, (white hair:1.2), pointed ears, violet or red eyes, dark elven beauty
+demon girl, small horns, demon tail, dark skin optional, otherworldly features, fang teeth, glowing eyes
+dragon girl, dragon horns, dragon tail, dragon wings optional, dragon scales on skin, reptilian eyes, dragon features
+1girl, female dwarf, (stocky dwarven woman:1.2), braid, short stature, strong arms, dwarven female, mountain woman, warrior woman
+1boy, male dwarf, (stocky dwarf:1.2), thick beard, braided beard, short stature, barrel-chested, dwarven features, mountain people
+elf, pointy ears, fair skin, ethereal beauty, long pointed ears, elven features, graceful elf
+1boy, male elf, (pointed ears:1.2), elven features, graceful male, long hair optional, elven male, fair features, forest elf man
+1boy, male fairy, (small fairy wings:1.2), pixie male, fairy dust, diminutive male, fae man, magical tiny male, forest fae
+fox girl, kitsune, fox ears, multiple fox tails, japanese spirit, fox features, fluffy tails, ethereal fox spirit
+1girl, goblin, green skin, short stature, large ears, goblin girl, small and wiry
+1girl, harpy, bird wings, wing arms, feathers, avian features, bird-like
+1girl, oni, japanese demon, horns, club weapon, red or blue skin, oni girl
+1girl, orc, green skin, tusks, muscular, orcish features, fantasy orc woman
+1boy, male orc, (green skin:1.3), tusks, muscular orc, orcish warrior, barbaric strength, brutal features, war paint
+1girl, plant girl, vine features, floral body, botanical, leaves in hair, nature being
+1girl, android, robot girl, mechanical joints, circuit patterns, synthetic, gynoid
+skeleton character, (animated skeleton:1.2), bone warrior, skull face, skeletal figure, animated bones, undead skeleton, sans-flesh
+1girl, slime girl, translucent body, gelatinous form, liquid being, slime entity
+undead character, (gaunt undead face:1.2), pale decaying skin, hollow eyes, death pallor, skeleton showing, lithe undead, lich aesthetic
+vampire girl, fangs, pale skin, red eyes, vampire features, nocturnal beauty, gothic vampire
+werewolf, (half-wolf transformation:1.2), lupine features, claws, wolf ears, fangs, transformation state, beast man, lycan, wolf hybrid
+1girl, wolf ears, fluffy wolf tail, wolf girl, canine features
+zombie, (walking dead:1.2), rotting flesh, milky eyes, shambling, decomposed, zombie horde aesthetic, undead horror, walking corpse

@@ -1,0 +1,33 @@
+casual, plain, armor, uniform
+formal, structured, armor, uniform
+casual, fantasy, armor, school uniform
+formal, armor, fantasy, uniform, nude
+urban, cyberpunk, armor, dark
+fantasy, medieval, kimono, casual
+bright colors, casual, fantasy
+casual, sporty, armor, uniform, torn
+dark, armor, urban, cyberpunk
+modern clothes, casual, office, school uniform
+pastel, bright colors, sporty, swimwear
+modern, western, armor, casual
+modern, casual, fantasy light armor
+modern, bright casual, office
+fantasy, armor, formal evening
+casual, sporty, minimalist, armor
+medieval, fantasy, casual, historic
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+formal, armor, fantasy, tight
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+adult professional, armor, fantasy, nude
+formal, armor, fantasy, skirt, dress
+formal, armor, fantasy, dress
+armor, formal, winter clothes, heavy clothing
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+formal, fantasy, casual plain
+western, casual, fantasy armor
+western, casual, armor, modern
+modern clothes, western, armor, casual
+modern, western, fantasy armor, casual
+swimwear, summer clothes, bikini, bare arms

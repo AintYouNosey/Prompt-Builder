@@ -1,0 +1,12 @@
+(cold blue palette:1.2), icy blue tones, cool colors dominant, steel blue, arctic palette, cold atmosphere
+duotone color scheme, two-color palette, duotone print effect, high contrast two colors, (limited palette:1.2), graphic duotone
+(high contrast:1.2), strong contrast, deep blacks, bright highlights, dramatic tonal range
+(desaturated horror palette:1.2), grey-green tones, sickly desaturated, horror movie color grade, bleached colors, wrong pallor
+infrared photography style, false color infrared, glowing white foliage, magenta sky, surreal infrared color shift, infrared color palette
+(monochrome:1.2), black and white, noir, desaturated, grayscale with single accent color
+(desaturated:1.2), muted colors, low saturation, washed out, faded palette, subdued tones, earthy muted
+sepia tone, sepia photograph, warm brown tones, old photograph color, antique sepia filter, aged photo palette, brown monochrome
+teal and orange color grading, cinematic color grade, teal shadows orange highlights, Hollywood color grading, blockbuster color palette, film color grade
+(vaporwave:1.3), pastel purple pink cyan, 80s neon palette, synthwave colors, retrowave aesthetic, neon gradient
+(vintage faded film:1.2), faded photograph colors, old photo tones, film photography fade, analog warmth, nostalgic color cast
+(warm earthy tones:1.2), amber, sienna, terracotta, brown tones, warm palette, golden tones

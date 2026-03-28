@@ -1,0 +1,10 @@
+(dynamic action pose:1.2), mid-action, motion, speed lines, kinetic energy, action scene, dynamic angle, character in motion
+back view character, (seen from behind:1.2), character facing away, dramatic back shot, looking into distance, cape flowing, back to viewer
+detailed bust portrait, upper body focus, (detailed face:1.2), (detailed clothing:1.2), character design, waist up, clear character features
+concept art character, (character design reference:1.2), clean lines, clear design, multiple angles hint, design sheet aesthetic, professional character design
+expression sheet, multiple expressions, character expressions, emotion range, same character different moods, facial expression reference, expression study
+group of characters, ensemble cast, multiple characters, group pose, character lineup, team shot, diverse group, group dynamic
+heroic portrait, (hero shot:1.2), dramatic framing, character close-up, strong jaw, confident gaze, epic lighting, cinematic portrait
+mysterious character portrait, partial shadow on face, enigmatic expression, half-lit face, obscured details, intrigue, cinematic
+villain portrait, (menacing expression:1.2), dramatic shadow, sinister gaze, dark aesthetic, intimidating presence, character close-up, evil smirk
+(dramatic silhouette:1.3), character silhouette, backlit, rim lighting, figure against bright background, profile silhouette, iconic pose

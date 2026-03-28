@@ -1,0 +1,12 @@
+bear, (brown bear:1.2), grizzly, powerful, thick fur, bear portrait, forest bear, standing or resting, ursine
+cat, (detailed cat:1.2), domestic cat, feline, cat portrait, whiskers, fur texture, cat eyes, resting or alert cat
+deer, (stag with antlers:1.2), cervine, graceful animal, antlers, doe or stag, forest deer, elegant animal, gentle eyes
+dragon, (western dragon:1.2), scales, wings, horns, fire breath optional, massive creature, reptilian, dragon portrait, fantasy dragon
+eagle, (bald eagle or golden eagle:1.2), raptor, soaring bird, sharp talons, feather detail, bird of prey, eagle portrait
+fox, (red fox:1.2), bushy tail, amber eyes, fox portrait, cunning expression, forest fox, orange and white fur, alert fox
+horse, (majestic horse:1.2), stallion, mare, equine, mane flowing, powerful horse, horse portrait, horseback animal
+lion, (male lion with mane:1.2), king of the jungle, majestic lion, savanna predator, regal animal, lion portrait, powerful feline
+owl, (great horned owl:1.2), nocturnal bird, feathered, large eyes, perched owl, wisdom symbol, night bird, detailed feathers
+raven, (black raven:1.2), crow, glossy black feathers, intelligent bird, perched raven, ominous bird, dark bird, raven portrait
+tiger, (bengal tiger:1.2), orange and black stripes, apex predator, tiger portrait, jungle cat, powerful feline, intense gaze
+wolf, (majestic wolf:1.2), grey wolf, amber eyes, fur detail, wild animal, forest predator, wolf portrait, alpha wolf

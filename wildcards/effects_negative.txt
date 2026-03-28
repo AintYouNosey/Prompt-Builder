@@ -1,0 +1,14 @@
+standing grounded, normal gravity
+clean empty air, no particles
+static, still, no movement
+dry, still water, no splash
+still, static, calm, no movement
+cute, clean, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+harsh, no glow, flat
+deep focus, sharp background, flat
+clean optics, no distortion
+clean digital, smooth, pristine
+no flare, flat lighting
+bright corners, even exposure

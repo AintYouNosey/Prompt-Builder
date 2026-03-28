@@ -1,0 +1,51 @@
+(Y2K aesthetic:1.2), early 2000s digital, chrome elements, translucent plastic, 2000s internet visual, early CGI feel, bubbly 2000s design
+3d render, 3d anime style, cgi anime, smooth 3d shading, rendered character, three-dimensional
+grindhouse film aesthetic, (1970s film look:1.2), gritty film grain, faded colors, exploitation film, pulp cinema, scratched film, retro horror poster
+(synthwave aesthetic:1.2), neon purple and pink, retrowave, grid lines, 80s electronic, outrun style, neon sunset, retro futurism 80s
+(VHS tape aesthetic:1.2), video tape grain, scan lines, analog distortion, tracking error, 80s video quality, VHS glitch, home video
+90s anime style, retro anime aesthetic, classic 90s art, vintage anime, old school anime shading, cel shading
+action game art style, game character design, sharp rendering, vibrant saturated colors, game art aesthetic
+anime style, classic anime art, clean lineart, anime shading, vibrant colors, standard anime aesthetic
+baroque style, dramatic baroque painting, strong chiaroscuro, rich colors, dynamic composition, baroque portrait, theatrical drama, Caravaggio-inspired, old master painting
+(body horror aesthetic:1.2), grotesque transformation, surreal body, organic horror, disturbing anatomy, biological horror, visceral surrealism
+(cel shading:1.2), cell shaded, hard shadow cel, toon shading, sharp shadow anime, flat shadow render
+charcoal drawing, charcoal sketch, black charcoal on white paper, smudged charcoal, academic drawing, charcoal texture, classical charcoal portrait
+chibi style, super deformed, cute chibi, big head small body, chibi proportions, kawaii chibi
+clay render, clay material, claymation aesthetic, matte clay texture, rounded soft shapes, stop motion feel, clay character
+colored pencil art, colored pencil illustration, pencil stroke texture, waxy pencil shading, hand-drawn colored pencils, layered pencil marks, colored pencil realism
+(western comic book style:1.2), Marvel or DC aesthetic, bold inks, flat colors, dynamic poses, speech bubble ready, superhero art
+concept art style, character concept, design sheet feel, professional game concept, clean character design
+(cosmic horror aesthetic:1.2), Lovecraftian, eldritch, non-Euclidean, impossible geometry, tentacles in distance, vast unknowable, dark surrealism
+(dark fantasy anime:1.2), dramatic anime with dark themes, berserk-style art, detailed dark rendering, intense anime, mature dark anime
+dark gothic style, moody atmosphere, dark aesthetic, crimson accents, gothic art, dark elegant
+ultra detailed, highly detailed, photorealistic anime, detailed skin, detailed fabric, premium quality rendering
+(exploitation movie poster:1.2), pulp art, bold text space, retro illustration, grindhouse poster, dramatic poses, pulp fiction aesthetic
+(film noir:1.2), hard shadow, single light source, venetian blind shadows, black and white contrast, detective drama, 1940s cinema, femme fatale lighting
+(found footage aesthetic:1.2), handheld camera shake, night vision green, low resolution, date stamp overlay, amateur camera look, shaky cam
+(gothic horror painting:1.2), Victorian gothic art, oil painting horror, dark romanticism, dramatic horror illustration, Fuseli nightmare style
+gouache painting style, flat color gouache, opaque watercolor, graphic gouache illustration
+impressionist style, loose brushstrokes, light and color focus, impressionistic painting, atmospheric rendering
+ink drawing, crosshatching, pen and ink, detailed linework, etching style, ink illustration
+low poly art, low polygon, geometric faces, triangulated surfaces, faceted shading, flat color polygons, low poly 3d
+(magical girl anime:1.2), sparkle effects, transformation sequence aesthetic, sailor moon style, pastel magical, star wand, ribbon effects
+(manga screentone:1.2), halftone dot shading, black white manga, ink lines, manga panel aesthetic, screentone texture, Japanese manga
+(mecha anime style:1.2), giant robot aesthetic, mechanical detail, super robot art, Gundam-style rendering, cockpit view, mech battle
+modern anime style, polished, glossy finish, contemporary digital art, clean smooth rendering, high production value
+(neon noir:1.2), dark environment with neon accents, rain reflection neon, cyberpunk darkness, colored light in shadow, noir meets neon
+oil painting style, painterly, visible brushstrokes, classical painting aesthetic, painted texture, artistic
+(16-bit pixel art:1.2), pixelated, SNES era style, sprite aesthetic, retro game graphics, pixel character, chunky pixels, 90s game art
+(vintage propaganda poster:1.2), bold graphic design, simplified shapes, heroic composition, retro state poster, powerful poster art, stark colors
+(risograph print:1.2), two-color offset printing, slight misregistration, textured paper look, indie print aesthetic, grain overlay, limited palette
+(seinen manga style:1.2), detailed linework, gritty realism, adult themes aesthetic, crosshatching, moody seinen panels, mature manga art
+(shojo anime style:1.2), sparkles and flowers, soft rendering, romantic manga, delicate linework, dreamy backgrounds, shoujo panels
+(shonen anime style:1.2), dynamic action lines, bold outlines, energetic composition, battle manga aesthetic, determined expressions, power aura
+silent film aesthetic, (1920s film:1.2), black and white, high contrast, theatrical makeup, expressionist angles, silent era cinema, iris vignette
+sketch style, pencil lineart, hand-drawn look, rough sketch, pencil drawing aesthetic, monochrome sketch
+soft pastel colors, gentle palette, pastel art style, dreamy colors, watercolor-like softness, muted tones
+storybook illustration, fairy tale art, children's book style, whimsical illustration, folk art illustrated
+surrealist art, dreamlike surrealism, Salvador Dali inspired, impossible scene, melting reality, dream logic, surreal imagery, distorted perspective dream
+(technical blueprint:1.2), architectural drawing, blue and white blueprint, engineering diagram, schematic lines, technical illustration, cross-section
+visual novel art style, VN character art, dating sim style, light novel illustration, character sprite style
+voxel art, voxel style, 3d pixel art, cubic voxels, minecraft-like aesthetic, blocky 3d, voxel render, isometric voxel
+watercolor style, watercolor wash, soft color bleeding, watercolor texture, translucent colors, painted wash
+woodcut print, linocut, printmaking style, rough carved lines, high contrast black white print, relief print texture, bold graphic woodcut, stamp-like quality

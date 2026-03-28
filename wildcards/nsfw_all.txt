@@ -1,0 +1,587 @@
+(highly detailed:1.3), (intricate details:1.2), (sharp focus:1.2), (fine texture:1.2), (masterful rendering:1.1), complex detail, crisp edges, BREAK
+album cover composition, square format, centered subject, album art aesthetic, music cover art, bold composition, graphic album design
+character sheet, character design turnaround, front and side view, multiple angles, reference sheet, character reference, design sheet, neutral pose clean background
+movie poster composition, (portrait poster format:1.2), dramatic poster layout, hero shot poster, title space at top, centered subject, poster framing
+masterpiece, best quality, very aesthetic, absurdres, newest, (detailed:1.2), (intricate:1.1), BREAK
+very awa, year 2024, year 2025, newest, source_anime, absurdres, (high resolution:1.1), (intricate details:1.1), BREAK
+score_9, score_8_up, score_7_up, source_anime, (masterpiece:1.2), (best quality:1.2), absurdres, BREAK
+(bag:1.2), handbag, shoulder bag, school bag, backpack, stylish purse
+(piercings:1.2), ear piercings, multiple ear piercings, nose ring, industrial piercing, helix piercing, body jewelry, studs and rings
+(crown:1.3), tiara, royal crown, golden crown, jeweled tiara, diadem, princess crown
+(fantasy weapon:1.3), sword, magic staff, bow and arrow, enchanted blade, battle axe, glowing weapon
+(glasses:1.2), eyeglasses, spectacles, thin frame glasses, round glasses, semi-rimless
+(hat:1.2), stylish hat, baseball cap, beret, wide-brim hat, sun hat, fashionable headwear
+(headphones:1.2), over-ear headphones, wireless headphones, music listener, around neck or on ears
+(elegant jewelry:1.2), necklace, pearl earrings, bracelet, ring, fine jewelry, crystal accessories
+(katana:1.3), japanese sword, sheathed katana, drawn katana, blade, samurai sword, sword at waist
+(cat eye liner:1.3), winged eyeliner, cat eyeliner, sharp liner wing, dramatic liner, kohl eyeliner, eyeliner flick
+(glossy lips:1.2), lip gloss, shiny lips, plump glossy lips, wet-look lips, high shine lip color, lip gloss shine
+(natural makeup:1.2), light makeup, minimal makeup, natural look, soft foundation, nude lip, barely-there makeup, fresh face makeup
+(soft blush:1.2), rosy cheeks, pink cheek blush, gentle blush makeup, peachy blush, blusher on cheeks
+(mask:1.2), face mask, kitsune mask, half mask, decorative mask, masquerade mask
+(respirator mask:1.2), gas mask worn low, cyberpunk respirator, face respirator, techwear mask
+(scarf:1.2), cozy scarf, winter scarf, flowing scarf, neck scarf, warm wool scarf
+(tattoos:1.2), visible tattoos, arm tattoos, decorated skin, inked, tattoo art on skin
+(large wings:1.3), feathered wings, angel wings, demon wings, dragon wings, spread wings, wings framing figure
+(archery:1.2), drawing bow, arrow nocked, archer stance, longbow or compound, aiming, forest target, hunter skill
+(heated argument:1.2), pointing finger, confrontation, verbal conflict, debate, two people disagreeing, tense conversation
+(celebrating:1.2), party moment, raising glass, confetti, jubilation, group celebration, festival joy, cheering crowd
+(cooking:1.2), kitchen activity, holding ladle or spatula, apron, mixing bowl, culinary, food preparation
+(crafting or building:1.2), hands working, making something, artisan at work, creating with hands, workshop activity, building skill
+(dancing:1.3), dynamic dance pose, flowing movement, arms raised, hair flowing, mid-dance, graceful motion
+(battle pose:1.3), combat stance, sword raised, dynamic action, mid-battle, weapon in hand, heroic action pose
+playing video games, (controller in hands:1.2), gamer, focused on screen, headset optional, sitting cross-legged
+looking into the distance, (contemplative pose:1.2), hand shielding eyes, wind in hair, standing at edge, vista view
+(riding a horse:1.2), on horseback, galloping, cavalry charge, horse and rider, equestrian, riding through landscape
+(investigation:1.2), examining clues, looking closely, detective work, searching scene, magnifying glass, piecing together mystery
+(magic casting:1.3), spell circle, magical energy, glowing hands, arcane symbols, mystical aura, channeling power
+(meditation:1.2), cross-legged, eyes closed, inner peace, meditative pose, zen, floating slightly, calm aura, spiritual practice
+(painting:1.2), artist at easel, paintbrush in hand, canvas, palette, art studio, paint smudges, creating artwork, artist at work
+reading a book, (book in hands:1.2), sitting with book, open book, studious, glasses optional, cozy reading pose
+(running:1.3), mid-sprint, dynamic run pose, hair flying back, motion blur implied, energetic, athletic movement
+(singing:1.3), performing a song, microphone, mouth open singing, eyes closed while singing, musical performance, concert singing, passionate singing
+sitting, (relaxed pose:1.2), comfortable seated position, legs crossed, casual sitting, at ease, resting
+(sleeping:1.2), asleep, peaceful sleep, curled up sleeping, eyes closed, resting, cozy sleep, pillow, sleeping soundly
+(stretching:1.2), yoga pose, flexible pose, split stretch, reaching forward, limber, warm-up pose, gymnastic
+(swimming:1.2), underwater, swimmer, water splash, floating in water, backstroke, pool, ocean swimming, submerged
+(sword practice:1.2), training kata, sword form, blade technique, practice swing, training grounds, kendo or swordsmanship, focus
+bear, (brown bear:1.2), grizzly, powerful, thick fur, bear portrait, forest bear, standing or resting, ursine
+cat, (detailed cat:1.2), domestic cat, feline, cat portrait, whiskers, fur texture, cat eyes, resting or alert cat
+deer, (stag with antlers:1.2), cervine, graceful animal, antlers, doe or stag, forest deer, elegant animal, gentle eyes
+dragon, (western dragon:1.2), scales, wings, horns, fire breath optional, massive creature, reptilian, dragon portrait, fantasy dragon
+eagle, (bald eagle or golden eagle:1.2), raptor, soaring bird, sharp talons, feather detail, bird of prey, eagle portrait
+fox, (red fox:1.2), bushy tail, amber eyes, fox portrait, cunning expression, forest fox, orange and white fur, alert fox
+horse, (majestic horse:1.2), stallion, mare, equine, mane flowing, powerful horse, horse portrait, horseback animal
+lion, (male lion with mane:1.2), king of the jungle, majestic lion, savanna predator, regal animal, lion portrait, powerful feline
+owl, (great horned owl:1.2), nocturnal bird, feathered, large eyes, perched owl, wisdom symbol, night bird, detailed feathers
+raven, (black raven:1.2), crow, glossy black feathers, intelligent bird, perched raven, ominous bird, dark bird, raven portrait
+tiger, (bengal tiger:1.2), orange and black stripes, apex predator, tiger portrait, jungle cat, powerful feline, intense gaze
+wolf, (majestic wolf:1.2), grey wolf, amber eyes, fur detail, wild animal, forest predator, wolf portrait, alpha wolf
+1girl, alchemist, (alchemist robe:1.2), potion bottles, mortar and pestle, mystical ingredients, alchemy lab, apron, glowing potions, flask
+1girl, noblewoman, aristocrat, (ornate gown:1.3), elbow gloves, (noble bearing:1.2), fan in hand, jeweled accessories, powdered wig optional, upper class attire, refined posture
+1girl, assassin, (dark hood:1.2), hidden blades, dark cloak, stealth outfit, rogue attire, shadow operative, masked lower face
+1person, astronaut, (space suit:1.2), helmet, NASA-style or futuristic suit, cosmonaut, space explorer, zero gravity, tethered cable
+1person, bard, (lute musician:1.2), colorful medieval clothes, performer, storyteller, traveling musician, jester-adjacent, tavern performer
+1girl, bunny ears, bunny girl outfit, leotard, fishnet stockings, bowtie, wrist cuffs, high heels, bunny tail
+1girl, cat ears, cat tail, nekomimi, (collar:1.2), feline features, cat-like eyes, paws optional, kemonomimi
+1girl, cheerleader, (pom poms:1.2), short cheer skirt, team uniform, athletic top, sports colors, energetic pose
+1person, cursed knight, (corrupted armor:1.2), dark aura, fallen warrior, tainted soul, black armor with cracks, hollow eyes, dark paladin
+1girl, demon queen, dark crown, (dark armor:1.2), large dark wings, glowing red or purple eyes, imposing presence, dark cape, queen of darkness
+1girl, detective, (detective coat:1.2), magnifying glass, fedora optional, trench coat, investigator, noir detective, badge, sharp eyes
+1girl, elf, pointy ears, ranger outfit, leather armor, bow and arrow, (forest attire:1.2), quiver, hood, elven jewelry
+1person, exorcist, (holy symbols:1.2), priest or shaman attire, sacred text, ritual tools, spiritual authority, casting out evil, determined
+1girl, fairy, (tiny fairy wings:1.3), small size, fairy dust, flower petal dress, magical fairy, glowing wings, nature fairy, pixie
+1girl, fortune teller, (crystal ball:1.3), mystic veil, tarot cards, mysterious robes, henna, coin jewelry, mystical gaze, tent backdrop
+1person, gladiator, (arena fighter:1.2), combat armor, shield and sword, Roman arena, battle stance, warrior champion, crowd cheering
+1girl, hacker, netrunner, (glowing neural implants:1.2), holographic displays, wired headset, typing on holographic keyboard, cyberpunk techwear, (data streams:1.1)
+1girl, idol, (colorful stage outfit:1.2), microphone, sparkling costume, glitter, bow accessories, cute performer, stage presence
+1girl, female knight, (plate armor:1.3), sword and shield, paladin, holy knight, armored knight, heroic knight, full plate armor, visor optional
+1girl, kunoichi, female ninja, (ninja outfit:1.2), black ninja garb, mask over lower face, arm guards, kunai, wrapped hands
+1girl, librarian, (cardigan:1.2), books stacked, reading glasses, quiet demeanor, bun hairstyle, surrounded by books, library setting, bookish
+1person, mad scientist, (wild hair:1.2), lab coat, goggles, manic expression, dangerous experiment, tesla coil sparks, eccentric genius
+1girl, magical girl, (frilly costume:1.2), magical wand, transformation outfit, ribbons, stars, sparkles, pastel colors, heart accessories
+1girl, maid outfit, frilly maid dress, white apron, maid headdress, black and white uniform, collar, long sleeves
+1boy, blacksmith, (forge master:1.2), leather apron, muscular arms, soot-stained, hammer in hand, craftsman, metalworker, anvil nearby
+1boy, bounty hunter, (wanted poster aesthetic:1.2), rugged male, rifle or pistol, duster coat, wild west or sci-fi, hunter stance
+1boy, male detective, (trench coat:1.2), fedora, cigarette optional, sharp eyes, investigator, noir detective, private eye, magnifying glass
+1boy, king, (royal crown:1.2), throne room, regal robes, commanding presence, monarch, emperor, dignified ruler, majestic male
+1boy, male mage, wizard, sorcerer, (magical staff:1.2), robes, arcane symbols, glowing eyes, mystic, spellcaster, male magic user
+1boy, mercenary, (battle-worn mercenary:1.2), mixed armor, weapons visible, rugged male, hired soldier, bounty coat, veteran fighter
+1boy, male priest, holy man, cleric, religious robes, cross symbol, divine aura, solemn expression, monk robe, ecclesiastical
+1boy, rogue, (hooded rogue:1.2), leather armor, daggers, assassin stance, street thief, shadow operative, male thief, dark cloak
+1boy, sailor, (naval uniform:1.2), captain hat, seafarer, ocean man, ship crew, weathered face, maritime clothing, anchor motif
+1boy, male scholar, academic, professor, (spectacles:1.2), book in hand, studious, intellectual, university robes, learned man
+1boy, male warrior, (muscular male:1.2), battle-worn armor, scarred, strong build, weapon in hand, soldier, fighter, male protagonist
+1girl, mechanic, engineer, (grease stains:1.2), overalls, work gloves, wrench in hand, goggles pushed up, industrial outfit, oil marks, utility belt
+1girl, mermaid, (mermaid tail:1.3), scales, upper body clothed, seashell top, underwater, flowing hair, fin tail, aquatic beauty
+1person, monk, (monk robes:1.2), shaved head or cloth wrap, meditation, martial arts, Buddhist or fantasy monk, inner peace, training gi
+1person, nomad, (desert traveler:1.2), wrapped robes, travel-worn, wanderer, desert nomad, road warrior, lone traveler, satchel and staff
+1girl, nun, (religious habit:1.2), black and white habit, rosary, cross necklace, white wimple, modest clothing, church attire
+1girl, nurse, (nurse uniform:1.2), nurse cap, medical cross, stethoscope, hospital attire, nurse outfit, caring expression, scrubs optional
+1girl, office lady, (business suit:1.2), pencil skirt, blazer, dress shirt, professional attire, heels, briefcase
+1girl, female pirate captain, (tricorn hat:1.2), pirate coat, cutlass, pirate outfit, naval pirate, bandana, boots, seafaring attire
+1girl, princess, (royal gown:1.2), tiara, princess attire, royal dress, elegant princess, castle background optional, graceful royalty
+1girl, female samurai, (samurai armor:1.2), katana, traditional japanese armor, do-maru armor, samurai attire, female warrior Japan
+1girl, scientist, (lab coat:1.2), test tubes, laboratory equipment, goggles on head, research equipment, beaker, (science lab:1.1), whiteboard
+1girl, miko, shrine maiden, (white haori:1.2), red hakama, ofuda, hair ribbon, traditional japanese clothing, tabi socks
+1person, modern soldier, (military uniform:1.2), tactical gear, combat uniform, military operative, armed forces, camouflage, serious expression
+1girl, space pilot, (pilot suit:1.2), cockpit, spacesuit, astronaut, futuristic pilot, space academy uniform, helmet under arm, space ship
+1person, street artist, graffiti artist, (spray paint can:1.2), urban wear, creative, urban art culture, hoodie, artistic
+1girl, succubus, demon girl, (small horns:1.2), demon wings, spaded tail, dark elegant outfit, otherworldly beauty, glowing eyes
+1girl, teacher, (formal teacher attire:1.2), pointer stick, glasses, chalkboard, lesson, stern but kind teacher, educator, school teacher
+1person, undead warrior, skeleton soldier, (undead knight:1.2), decayed armor, hollow skull eyes, risen dead, lich warrior, bone armor
+1person, vampire hunter, (Van Helsing style:1.2), long coat, crucifix, wooden stakes, holy water, monster hunter gear, determined grimace
+1girl, female warrior, (fantasy armor:1.2), pauldrons, gauntlets, sword, shield, battle-worn, heroic stance, cape
+1girl, witch, (witch hat:1.3), dark robe, spell book, broomstick, magic staff, crescent moon accessories, mysterious cloak
+(volcanic ash falling:1.2), ash in the air, grey snowfall, ash-covered ground, post-volcanic, pale grey ash, silent ash fall
+(northern lights:1.3), aurora borealis, green and purple sky, polar lights, arctic sky glow, dancing auroras, night sky phenomenon
+breath visible in cold air, exhaled breath mist, cold breath cloud, winter breath condensation, freezing cold breath effect
+(confetti falling:1.3), colorful confetti, celebration confetti, paper confetti shower, festive confetti, party atmosphere, confetti stream
+dust particles in sunlight, light shafts with dust, floating dust motes, sunbeam dust, golden dust particles, indoor sunbeam particles
+(solar eclipse:1.3), eclipse ring, darkened sun, corona visible, surreal sky, mid-day darkness, eclipse atmosphere, rare phenomenon
+(falling petals:1.3), flower petals in air, drifting petals, scattered petals, wind-blown petals, petal shower, petals falling around character
+(floating embers:1.3), fire embers rising, burning sparks in air, glowing ember particles, campfire embers, fire sparks floating upward
+(fireflies:1.3), glowing fireflies, bioluminescent insects, firefly lights, summer night fireflies, floating light bugs, warm glow fireflies
+(red tinged mist:1.3), blood mist, crimson fog, horror atmospheric mist, ominous red haze, threatening fog
+(ground level fog:1.3), low lying mist, knee-high fog, ground fog, creeping mist, fog hugging floor, cemetery fog
+(magical sparkles:1.3), glowing particles, arcane sparkles, floating light orbs, magical dust, glitter particles, enchanted atmosphere, shimmering magic
+(sandstorm:1.3), desert sand storm, orange dust cloud, blinding sand, desert wind, dust devil, sand wall approaching
+autumn season, falling leaves, orange red leaves, autumn colors, leaf-covered ground, warm autumn tones
+spring season, cherry blossoms, sakura petals, pink flowers, blooming trees, gentle spring breeze, sakura falling
+summer season, bright sun, warm weather, blue sky, summer heat haze, vibrant colors, clear skies
+winter season, snow, snowflakes, frost, icy breath visible, winter cold, white landscape, snow-covered ground
+(industrial smoke:1.2), factory haze, pollution haze, thick smoke atmosphere, smoggy sky, industrial atmosphere, smoke plumes
+(floating spores:1.2), bioluminescent spores, particle spores, forest spores, magical dust particles, glowing floating particles
+blue hour, twilight, dusk, deep blue sky, transition from day to night, indigo atmosphere, purple twilight
+dawn, early morning light, first light, pale sky, sunrise beginning, soft pink and orange horizon, morning mist
+golden hour, warm afternoon light, long golden shadows, warm glow, magic hour, late afternoon sun
+midnight, deep night, starry sky, full darkness, night atmosphere, moonlit shadows, nocturnal
+(dense fog:1.3), thick mist, foggy atmosphere, obscured background, misty air, fog rolling in, visibility reduced
+(gentle rain:1.2), light drizzle, rain drops, soft rain, wet pavement, grey sky, peaceful rain
+(heavy rain:1.3), pouring rain, rain streaks, wet everything, splashing puddles, rain-soaked, rain on surface
+(snowstorm:1.2), blizzard, heavy snowfall, snow swirling, white-out conditions, blowing snow, icy wind
+(strong wind:1.2), wind effect, wind blowing hair, fabric in wind, leaves swirling, dynamic wind, gusts
+1girl, androgynous, (androgynous features:1.2), gender-ambiguous, soft masculine features, neutral body, slim androgynous figure, boyish feminine
+1girl, battle scars, scar on face, warrior scars, healed wound scars, tough survivor look
+creature, beast form, (monstrous body:1.2), non-human proportions, claws, scales or fur, beast physique, monster body, creature design
+1person, elderly, (aged face:1.2), wrinkles, grey hair, weathered skin, wise elder, old person, experienced face, age lines
+1girl, freckles, freckled skin, natural skin, sun freckles, light freckles across nose and cheeks
+1girl, hourglass figure, perfect proportions, slim waist, wide hips, long legs, graceful build, toned
+1boy, male, average male build, normal physique, everyday man, regular body type, masculine features, realistic male proportions
+1boy, male, (muscular male:1.3), defined muscles, broad shoulders, athletic build, strong physique, gym body, masculine power
+1boy, male, slim male, lean build, slender physique, elegant male frame, narrow shoulders, boyish figure, lithe male
+1boy, male, stocky build, broad and solid, dwarf-like proportions, compact powerful frame, barrel chest, sturdy male
+1girl, mature female, adult woman, (mature face:1.2), elegant mature beauty, refined features, womanly figure
+1girl, athletic body, toned, (defined muscles:1.2), fit, strong arms, abs, muscular legs, powerful build
+1girl, pear body shape, (wide hips:1.3), narrow shoulders, bottom-heavy figure, wider lower body, slimmer upper body, natural pear silhouette
+1girl, petite, small frame, delicate body, slim, tiny waist, short stature, slender limbs, dainty
+1person, superhero physique, (impossibly muscular:1.2), heroic build, comic book proportions, cape ready, power stance, chiseled features
+1girl, tall, long legs, statuesque, lean figure, elegant build, long neck, refined posture, model proportions
+1girl, voluptuous, thick thighs, wide hips, (curvy body:1.3), plump, soft body, hourglass figure, meaty thighs, smooth skin
+(diagonal composition:1.2), dynamic diagonal lines, leading lines, angular layout, energetic framing
+dutch angle, tilted camera, diagonal composition, dynamic tilt
+(framed composition:1.3), subject framed by doorway, window frame, arch, foreground framing element, frame within frame
+(negative space:1.3), subject isolated, empty space dominant, minimalist composition, breathing room, vast emptiness around subject
+(symmetrical composition:1.2), centered subject, perfect symmetry, mirrored layout, Wes Anderson style
+extreme close-up, macro shot, eye detail, face detail extreme, skin texture close, eyes filling frame, ultra tight crop
+face focus, close-up portrait, facial close up, head shot, face only, expression focus
+fisheye lens, extreme wide angle, barrel distortion, 180 degree view, fisheye distortion, ultra wide fisheye perspective
+high angle shot, bird's eye view, from above, looking down perspective, overhead angle
+low angle shot, worm's eye view, looking up, from below perspective, dynamic low angle
+full body shot, full body view, head to toe, complete figure visible
+cinematic letterbox, widescreen black bars, 2.39:1 aspect crop, cinemascope format, cinematic aspect ratio, anamorphic widescreen
+over shoulder shot, from behind looking forward, back angle, shoulder perspective, rear composition
+side profile, profile view, lateral view, 90 degree angle, silhouette angle
+three-quarter view, 3/4 angle, upper body, waist up, classic portrait angle
+tilt shift effect, miniature effect, selective focus tilt shift, toy world look, narrow band focus, blur above and below focus
+wide shot, establishing shot, character in environment, full scene visible, environment focus, panoramic
+(dynamic action pose:1.2), mid-action, motion, speed lines, kinetic energy, action scene, dynamic angle, character in motion
+back view character, (seen from behind:1.2), character facing away, dramatic back shot, looking into distance, cape flowing, back to viewer
+detailed bust portrait, upper body focus, (detailed face:1.2), (detailed clothing:1.2), character design, waist up, clear character features
+concept art character, (character design reference:1.2), clean lines, clear design, multiple angles hint, design sheet aesthetic, professional character design
+expression sheet, multiple expressions, character expressions, emotion range, same character different moods, facial expression reference, expression study
+group of characters, ensemble cast, multiple characters, group pose, character lineup, team shot, diverse group, group dynamic
+heroic portrait, (hero shot:1.2), dramatic framing, character close-up, strong jaw, confident gaze, epic lighting, cinematic portrait
+mysterious character portrait, partial shadow on face, enigmatic expression, half-lit face, obscured details, intrigue, cinematic
+villain portrait, (menacing expression:1.2), dramatic shadow, sinister gaze, dark aesthetic, intimidating presence, character close-up, evil smirk
+(dramatic silhouette:1.3), character silhouette, backlit, rim lighting, figure against bright background, profile silhouette, iconic pose
+(baby dragon companion:1.2), small dragon, dragon hatchling, tiny winged lizard, fire-breathing baby, dragon on shoulder, egg nearby
+(rabbit companion:1.2), pet rabbit, bunny held, small rabbit, white rabbit
+cat companion, cat sitting nearby, cat on shoulder, fluffy cat, feline companion, cat looking at viewer
+(raven companion:1.2), crow on shoulder, black bird familiar, dark bird perched
+dog companion, puppy, dog by side, fluffy dog, loyal companion, dog looking up
+spirit companion, magical familiar, glowing orb spirit, fairy companion, ethereal spirit, floating companion
+(fox companion:1.2), pet fox, fox sitting nearby, small fox, fox familiar
+(horse companion:1.2), loyal horse, steed beside character, cavalry horse, horse nuzzling, faithful mount, war horse at rest
+(mechanical companion:1.2), small robot, drone companion, floating robot, mechanical familiar
+(owl companion:1.2), owl on shoulder, perched owl, wise owl familiar, owl bird
+small dragon companion, tiny dragon on shoulder, baby dragon, cute dragon familiar, pocket dragon
+(pet snake:1.2), snake wrapped around arm, serpent companion, snake charmer, exotic reptile, coiled snake, scaled companion
+(dire wolf companion:1.2), large wolf companion, wolf mount, loyal wolf beast, wolf ally
+(floating:1.3), zero gravity, levitating, weightless, hair floating up, clothes floating, suspended in air, anti-gravity
+(flying debris:1.2), petals in wind, leaves swirling, sparks flying, paper scraps airborne, embers, floating particles
+(motion blur:1.3), speed blur, movement blur, action blur, dynamic motion, fast movement implied
+(water splash:1.3), splashing water, water droplets, water impact, wet spray, water dynamics
+(hair blowing in wind:1.3), wind effect on clothing, fabric billowing, wind-blown hair, clothes fluttering, dynamic wind, dramatic wind effect
+(stylized blood splatter:1.2), action movie blood spray, comic book blood, red splash effect, graphic novel blood, dramatic wound, not photorealistic
+(digital glitch effect:1.2), pixel corruption, data glitch, digital artifact, scan line errors, RGB split, corrupted image effect
+(magical particles:1.2), sparkle particles, magical energy motes, glowing dust particles, arcane sparks, particle effect, light motes
+(bloom effect:1.2), soft glow, light bloom, glowing highlights, luminous edges, soft luminosity
+(bokeh:1.2), depth of field, blurred background, out of focus background, circular bokeh, shallow focus
+(chromatic aberration:1.2), color fringing, RGB shift, lens distortion edges, color split effect
+(film grain:1.2), grain overlay, analog noise, vintage film texture, grainy photograph look
+(lens flare:1.2), light flare, anamorphic flare, optical flare, sun flare, light streak
+(vignette:1.1), darkened edges, frame vignette, cinematic vignette, dark corners
+ancient Egypt era, (pharaonic Egypt:1.2), hieroglyphs, pyramids, linen clothing, Egyptian jewelry, Nile civilization, ancient Egyptian
+ancient Greece era, (Hellenic period:1.2), chiton garment, Greek mythology, city-state culture, polis, Olympic games era, philosophy age
+ancient Rome era, (Roman Empire:1.2), toga and tunica, Roman legionary, Senate, gladiatorial, classical architecture, Pax Romana
+Cold War era, (1950s-1980s Cold War:1.2), espionage aesthetic, Soviet or American, propaganda art style, spy thriller era, Iron Curtain
+(feudal japan:1.2), edo period, samurai era, traditional japanese, ukiyo-e inspired setting, feudal architecture
+medieval fantasy setting, stone castles, torches, medieval architecture, cobblestone, knights, feudal aesthetic
+(post-apocalyptic:1.3), wasteland, ruined city, overgrown ruins, debris, rust, abandoned buildings, survival aesthetic
+Renaissance era, (Italian Renaissance:1.2), doublet and hose, classical art, humanism, Florence or Venice, 15th century European
+(retro futurism:1.2), 50s sci-fi aesthetic, atomic age, space age design, chrome and optimism, raygun gothic
+(steampunk:1.3), gears, steam pipes, brass clockwork, victorian machinery, airship, industrial fantasy, goggles
+(victorian era:1.2), 19th century aesthetic, victorian fashion, gaslight, ornate architecture, period accurate
+Wild West era, (American frontier:1.2), cowboy culture, 1800s American West, saloons, gunfighters, dusty frontier, outlaw country
+(determined expression:1.3), set jaw, focused eyes, resolute, unwavering gaze, battle will, strong-willed look
+(expression of disgust:1.3), wrinkled nose, sneering, disdainful look, contemptuous expression, raised upper lip, cold dismissal
+(exhausted face:1.2), heavy lidded eyes, dark circles, tired look, sleepy exhausted, worn out expression
+(gentle smile:1.2), soft smile, warm eyes, kind expression, approachable, natural beauty, subtle happiness
+(knowing smirk:1.2), I know something you don't, secret keeper face, sly grin, mysterious amusement, enigmatic smile, cunning look
+(laughing:1.2), open laughter, joyful expression, eyes crinkled, genuine laugh, carefree, full smile
+(manic grin:1.3), unhinged smile, wide eyes and grin, villain laugh, Joker-esque, insane expression, too many teeth, manic joy
+(pensive expression:1.2), thoughtful look, hand to chin, contemplating, introspective gaze, subtle frown
+(pouting:1.3), puffed cheeks, sulking expression, childish pout, stubborn face, arms crossed expression, slightly furrowed brow
+(blushing:1.3), shy smile, rosy cheeks, embarrassed, hand to face, averted gaze, flustered
+(smug expression:1.3), smirk, self-satisfied grin, knowing smile, one eyebrow raised, cocky look
+(stoic expression:1.2), emotionless face, blank stare, cold eyes, unreadable face, deadpan, no emotion visible, stone-faced
+(surprised expression:1.3), wide eyes, open mouth slightly, eyebrows raised, startled, shocked, taken aback
+(terror expression:1.3), wide eyes of fear, screaming horror, pure terror face, extreme fear, horror movie face, blood-curdling fear
+(winking:1.3), one eye closed, playful wink, coy look, finger gun optional, charming gesture
+(yandere expression:1.3), empty stare, blank obsessive eyes, unsettling smile, yandere look, glassy eyes
+(crimson eyes:1.4), red eyes, blood red iris, vampire eyes, glowing red eyes, scarlet iris, demonic red gaze
+(golden eyes:1.3), amber eyes, honey golden iris, warm golden gaze, amber colored eyes, glowing golden eyes
+(heterochromia:1.4), mismatched eye color, different colored eyes, one blue one red, odd eyes, heterochromatic irises
+(silver eyes:1.3), grey eyes, silver iris, steel grey gaze, moonstone eyes, pale silver irises, cool grey eyes
+(violet eyes:1.3), purple eyes, deep violet iris, amethyst eyes, vivid purple gaze, magical violet eyes
+(ahoge:1.2), single antenna hair, cowlick, one strand sticking up, cute ahoge
+(braided hair:1.2), braid, french braid, side braid, interwoven hair, elven braid, detailed braid
+(buzzcut:1.2), shaved sides, high fade, military cut, close cropped sides, short top with shaved sides
+(multicolor hair:1.2), dyed hair, gradient hair, pastel highlights, pink and white, blue tips, ombre hair
+(dreadlocks:1.3), locs, thick dreads, long dreadlocks, natural locs, decorated dreads, beaded dreads
+(long hair:1.2), flowing hair, silky straight hair, hair blowing in wind, voluminous long hair
+(messy bun:1.2), hair up in bun, loose strands, casual updo, relaxed bun, hair sticks optional
+(ponytail:1.2), hair tied back, high ponytail, sleek ponytail, hair band, athletic hairstyle
+(short bob:1.3), bob cut, blunt cut, chin length hair, sleek bob, sharp bangs
+(twin tails:1.3), twintails, pigtails, hair ties, symmetrical twin ponytails, cute hairstyle
+(undercut:1.2), shaved sides, undercut hairstyle, short sides long top, faded undercut
+(wet hair:1.2), soaking wet hair, dripping hair, rain-soaked hair, wet strands clinging
+(white hair:1.3), silver hair, platinum hair, snow white hair, ethereal hair color
+(bioluminescent light:1.3), glowing organisms, blue-green glow, deep sea light, mushroom glow, natural light emission, ethereal underwater light
+(blacklight UV lighting:1.2), ultraviolet glow, fluorescent colors visible, neon under UV, nightclub black light, UV reactive
+bright lighting, clean light, studio lighting, even illumination, no harsh shadows, crisp bright
+(campfire light:1.2), warm orange glow, fire illumination, flickering flames, warm shadows, rustic fire light, campsite lighting
+candlelight, candle flames, warm flickering light, intimate glow, multiple candles, warm orange tones
+dim lighting, low key, dark atmosphere, moonlit, night ambiance, moody shadows, minimal light
+dramatic lighting, high contrast, strong shadows, chiaroscuro, deep shadows, cinematic lighting
+emergency lights, police lights, red blue flashing, siren reflections, strobe effect, flashing red, emergency vehicle lighting, alternating red and blue light
+(god rays:1.3), divine light shafts, heavenly light beams, sun rays through clouds, celestial lighting, divine illumination from above
+golden hour, sunset light, warm golden glow, long shadows, orange sky, sunset colors, magic hour
+(red emergency light:1.3), blood red lighting, horror red glow, alarm light, red wash, danger lighting, red tinted scene
+(paper lantern light:1.2), warm lantern glow, oil lamp, hanging lanterns, asian lantern light, festival lanterns, warm soft light source
+(lightning flash:1.3), electric white light, storm flash, dramatic lightning illumination, split-second bright light, thunder storm
+(dramatic moonlight:1.2), moon breaking through clouds, silver moonbeam, partly cloudy night, intermittent moonlight, silver night glow
+neon lighting, colorful lights, vibrant colors, neon signs, multicolor illumination, electric atmosphere
+purple neon, pink neon, neon purple pink, synthwave lighting, retrowave colors, violet glow, magenta accents
+(neon storefront light:1.2), neon sign glow, shop window light, mixed neon colors, retail night lighting, urban glow, sign reflection
+moonlight, full moon, blue moonlight, night sky, silver light, stars, cool blue tones, lunar glow, rim lighting from moon
+overcast sky, diffused natural light, soft shadows, cloudy day lighting, even outdoor light, grey sky
+screen glow on face, blue screen light, monitor reflection on face, digital screen illumination, cold screen light, gaming screen glow, phone screen light
+soft warm lighting, golden hour glow, warm tones, gentle shadows, diffused light, cozy atmosphere
+(single spotlight:1.3), theatrical spotlight, one light source, stage lighting, beam of light from above, dramatic single light, performer lit
+stained glass light, colored light through stained glass, prismatic colored shadows, church window light, multicolored light patches, religious colored illumination
+(clear starlight:1.2), night sky stars, milky way glow, starfield lighting, astronomical dark sky, rural night, star-lit scene
+studio lighting, three point lighting, key light, fill light, rim light, professional photography lighting
+underlighting, light from below, upward lighting, eerie underlighting, flashlight from below, unnatural upward light, dramatic underlighting
+underwater lighting, caustics, blue green water light, light refraction, bubbles, aquatic atmosphere
+volumetric light rays, god rays, light shafts, sunbeams through trees, ethereal rays, dust particles in light
+confident expression, (strong pose:1.2), assertive, self-assured, power stance, direct gaze, chin up
+(determined mood:1.2), resolute, unwavering, focused intensity, eyes forward, mission-ready, battle will
+(dreamy expression:1.2), soft unfocused gaze, lost in thought, daydreaming, faraway look, gentle dreamy smile, starry eyes, wistful dreaming
+elegant expression, (refined smile:1.2), graceful, poised, sophisticated, aristocratic bearing, serene confidence
+(excited expression:1.2), bright eyes, big smile, energetic expression, thrilled look, enthusiastic, sparkling eyes, happy excitement
+(exhausted expression:1.2), dark circles under eyes, tired eyes, burnout look, drained expression, bags under eyes
+fierce expression, (battle aura:1.2), intense glare, battle-ready, determined anger, warrior spirit, sharp eyes
+focused expression, (intense concentration:1.2), determined focus, eyes locked on target, deep in thought focus, task-oriented expression, absorbed
+haunted expression, (traumatized look:1.2), hollow eyes, thousand yard stare, ghost of past, shell-shocked, deeply disturbed, empty stare
+melancholic expression, (sad eyes:1.2), wistful, distant look, pensive, thoughtful sorrow, gentle tears, lonely
+mysterious expression, (enigmatic smile:1.2), half-lidded eyes, knowing look, secretive, aloof, distant gaze
+playful expression, (bright smile:1.2), winking, mischievous grin, energetic, lively, tongue out slightly, happy
+(predatory expression:1.2), hunter watching prey, cold calculation, stalking gaze, apex predator energy, dangerous calm, locked on target
+(reverent expression:1.2), awe and respect, sacred feeling, in the presence of something greater, worshipful, humble awe, devotion
+(righteous anger:1.2), holy rage, justified fury, moral anger, outrage, righteous wrath, defending the innocent energy, noble anger
+serene expression, peaceful smile, calm eyes, tranquil, at ease, meditative, gentle warmth, inner peace
+shy expression, (blushing:1.2), fidgeting, looking away, timid, embarrassed smile, hand to cheek, downcast eyes
+sleepy expression, half-closed eyes, drowsy, tired eyes, yawning, sleepy smile, groggy, just woke up look, pillow marks on face
+(avant-garde fashion:1.3), high fashion, geometric silhouette, architectural outfit, runway fashion, experimental clothing, sculptural garment, oversized shapes, fashion-forward
+(bohemian outfit:1.2), boho fashion, flowy skirt, embroidered top, layered necklaces, bohemian style, free spirit clothing, macrame accessories, earthy boho
+(business suit:1.2), blazer, dress shirt, trousers or pencil skirt, tie or scarf, formal professional, heels
+casual clothes, jeans, t-shirt, sneakers, everyday outfit, relaxed clothing, comfortable wear
+(cottagecore:1.2), floral dress, linen apron, cottage aesthetic, prairie dress, pastoral fashion, soft rural
+(cyberpunk outfit:1.3), neon accents, tech wear, visor, holographic accessories, futuristic jacket, circuit patterns, cyber implants
+(dark academia:1.2), tweed, plaid skirt, turtleneck, blazer, oxford shoes, scholarly aesthetic, muted tones
+(elegant evening dress:1.3), gown, formal dress, off-shoulder dress, slit dress, evening wear, sophisticated
+(fairycore:1.2), floral fairy outfit, gossamer wings, flower crown, ethereal pastel, nature fairy, whimsical
+(fantasy armor:1.3), plate armor, pauldrons, gauntlets, greaves, fantasy warrior outfit, ornate armor, battle gear
+(gothic outfit:1.3), black lace dress, corset, dark clothing, choker, fishnet, victorian gothic, dark accessories
+(hanfu:1.3), traditional chinese hanfu, flowing hanfu robes, cross-collar hanfu, ancient chinese clothing, dynasty clothing, silk hanfu, ru skirt
+(plate armor:1.2), full armor, historical armor, pauldrons, breastplate, gauntlets, greaves, visor, armored knight
+(hooded cloak:1.3), long cloak with hood, hood up or down, traveler cloak, mystery cloak, dark cloak, fantasy traveler outfit, cowl
+(lab coat:1.2), white lab coat, laboratory coat, scientist coat, lab coat over casual clothes, open lab coat, medical professional look
+(gothic lolita:1.3), black lolita dress, lace trim, petticoat, bonnet, lolita fashion, frilly gothic dress, platform shoes, cross accessories
+(pilot suit:1.3), mecha pilot, eva suit, cockpit suit, futuristic pilot uniform, interface suit, neural link suit, sci-fi pilot outfit
+(desert nomad wraps:1.2), linen wraps, head scarf, travel-worn robes, Middle Eastern or North African inspired, flowing desert clothing
+(oversized hoodie:1.2), large hoodie, cozy hoodie, sleeves too long, hoodie dress length, comfortable casual, soft fabric hoodie
+(plague doctor outfit:1.2), beak mask, long black coat, leather gloves, Victorian medical horror, apothecary, dark physician
+(prison uniform:1.2), orange jumpsuit or striped, handcuffs, prisoner number, incarcerated, jail clothes, captured state
+(royal ceremonial dress:1.2), crown, ermine trim, royal robes, scepter, formal monarchy attire, coronation dress, regal ceremonial
+school uniform, sailor uniform, blazer uniform, pleated skirt, school bag, knee-high socks, student outfit
+sportswear, (athletic wear:1.2), sports bra, yoga pants, leggings, running shoes, gym outfit, activewear
+streetwear, hoodie, baggy pants, sneakers, cap, oversized jacket, urban fashion, graphic tee, layered outfit
+swimsuit, one-piece swimsuit, bikini, beach attire, sun hat, sunglasses, summer wear
+(tactical military gear:1.2), combat vest, multicam uniform, military boots, plate carrier, soldier equipment, tactical loadout
+(techwear:1.3), tactical jacket, straps and buckles, functional pockets, urban techwear, dark tech fashion, cargo
+(cheongsam:1.3), qipao, traditional chinese dress, silk qipao, mandarin collar, floral embroidery, form-fitting traditional dress, chinese clothing
+(sari:1.3), indian sari, silk sari, bindi, bangles, traditional indian clothing, embroidered sari, draped fabric, gold jewelry
+(kimono:1.3), obi belt, geta sandals, traditional japanese clothing, floral pattern, hakama optional, furisode
+(hanbok:1.3), traditional korean dress, silk hanbok, jeogori jacket, chima skirt, traditional korean clothing, embroidered fabric, colorful hanbok
+(winter coat:1.2), warm coat, scarf, gloves, beanie hat, winter fashion, cozy outfit, fur trim, long coat
+(cold blue palette:1.2), icy blue tones, cool colors dominant, steel blue, arctic palette, cold atmosphere
+duotone color scheme, two-color palette, duotone print effect, high contrast two colors, (limited palette:1.2), graphic duotone
+(high contrast:1.2), strong contrast, deep blacks, bright highlights, dramatic tonal range
+(desaturated horror palette:1.2), grey-green tones, sickly desaturated, horror movie color grade, bleached colors, wrong pallor
+infrared photography style, false color infrared, glowing white foliage, magenta sky, surreal infrared color shift, infrared color palette
+(monochrome:1.2), black and white, noir, desaturated, grayscale with single accent color
+(desaturated:1.2), muted colors, low saturation, washed out, faded palette, subdued tones, earthy muted
+sepia tone, sepia photograph, warm brown tones, old photograph color, antique sepia filter, aged photo palette, brown monochrome
+teal and orange color grading, cinematic color grade, teal shadows orange highlights, Hollywood color grading, blockbuster color palette, film color grade
+(vaporwave:1.3), pastel purple pink cyan, 80s neon palette, synthwave colors, retrowave aesthetic, neon gradient
+(vintage faded film:1.2), faded photograph colors, old photo tones, film photography fade, analog warmth, nostalgic color cast
+(warm earthy tones:1.2), amber, sienna, terracotta, brown tones, warm palette, golden tones
+(mid-strike pose:1.2), weapon swing, punch or kick, attack motion, dynamic combat, action moment, fighting pose with impact
+(arms crossed:1.2), crossed arms pose, defensive stance, arms folded, assertive arms crossed, closed body language
+1girl, (arms raised:1.2), hands above head, arms up, celebrating or stretching, raised arms
+1girl, (facing away:1.3), back to viewer, seen from behind, rear view, turning away from camera
+(spell casting pose:1.2), hands raised with energy, magical hand gesture, power emanating, magic circle around hands, arcane pose
+1girl, (crouching:1.2), low crouch, squatting down, knees bent deep, low to ground
+1girl, (defensive stance:1.3), guard stance, arms raised in defense, fighting guard, protective pose
+(collapsed from exhaustion:1.2), slumped, barely standing, knees on ground, battered but alive, weary warrior, battle exhaustion
+(falling pose:1.2), freefall, tumbling, desperate reach, dramatic drop, wind rushing up, hair streaming up, plummeting
+(flying pose:1.2), airborne, cape spread, arms extended, soaring, levitation, wind effect on clothes, mid-flight, gliding
+1girl, (hands on hips:1.2), both hands on waist, akimbo stance, confident hip pose
+(head tilted:1.2), head tilt, curious head tilt, quizzical tilt, tilted head look, slight head incline, head cocked sideways
+(heroic standing pose:1.2), cape billowing, wind from below, powerful stance, hero pose, arms at side confident, protagonist stance
+1girl, (jumping:1.3), mid-air, leaping, airborne, feet off ground, jump pose
+(kneeling:1.2), kneel pose, one knee down, both knees down, kneeling position, reverent kneel, warrior kneeling, bowing kneeling
+(leaning against wall:1.2), wall lean pose, casual wall lean, hip against wall, shoulder to wall, relaxed lean, slouching against wall
+(looking back over shoulder:1.3), glancing back, over shoulder look, head turned back, backward glance, looking behind, coy backward glance
+1girl, (lying down:1.2), horizontal position, reclined, resting on surface, prone or supine
+(reaching out hand:1.2), extended hand toward viewer, offering hand, grasping, desperate reach, calling out, outstretched arm
+1girl, (running:1.3), mid-run, dynamic motion, feet leaving ground, running pose, in motion
+(seated on throne:1.2), regal sitting position, one leg up, arm on armrest, commanding seated pose, ruler sitting, dominance from seat
+1girl, (sitting on chair:1.2), chair seated, sitting upright on seat, leg cross optional
+1girl, (sitting on edge:1.2), perched on edge, feet dangling, sitting at ledge, edge of surface
+1girl, (sitting on floor:1.2), cross-legged, floor sitting, casual floor seat, legs folded
+(sneaking crouch:1.2), low profile movement, stealth pose, tiptoeing, peering around corner, rogue stance, careful movement
+1girl, (standing relaxed:1.2), weight on one leg, casual stance, natural standing, hip slightly out
+1girl, (hand on chin:1.2), thinking pose, finger to chin, contemplative hand gesture, pondering
+(victory pose:1.2), arms raised in triumph, celebrating win, champion gesture, fist pump, triumphant stance, winner pose
+1girl, (mid-walk:1.2), walking, stepping forward, stride, caught mid-step, walking pose
+1girl, (waving hand:1.2), greeting wave, hand raised in wave, hello gesture
+(ancient tome:1.2), old leather book, spell book, grimoire, forbidden book, thick ancient text, cracked spine, glowing pages optional
+(bicycle:1.2), riding bicycle, bike, leaning on bicycle, city bike, basket bike, cycling, vintage bicycle
+(large book:1.2), open tome, reading book, old leather book, magic tome, held book
+(vintage camera:1.2), film camera, holding camera, old camera, photography prop
+(candle or candelabra:1.2), wax dripping candle, candleholder, multiple candles, gothic candelabra, flickering flame, candle light source
+(flower bouquet:1.3), holding bouquet, bunch of flowers, roses bouquet, wildflower bundle, wrapped flowers, bouquet in arms
+(acoustic guitar:1.3), guitar in hands, playing guitar, strumming, guitar on back, electric guitar optional, musician prop, musical instrument
+(paper lantern:1.2), holding lantern, glowing lantern, Japanese paper lantern, candle lantern, warm lantern glow, lantern light
+(potion vials:1.2), glass vials with colored liquid, alchemical bottles, magic potion, experimental flask, colored bubbling liquid
+(magical staff:1.2), wizard staff, glowing orb on staff, carved wood staff, arcane focus, mage staff, ancient staff
+(sword prop:1.2), drawn sword, blade gleaming, ornate hilt, sword held, weapon display, fantasy or historical sword, katana optional
+(teacup:1.2), holding teacup, drinking tea, porcelain cup, tea saucer, afternoon tea
+(umbrella:1.3), open umbrella, parasol, holding umbrella, rain umbrella, transparent umbrella, colorful umbrella, parasol tilted
+angel, white feathered wings, halo, divine light, angelic beauty, heavenly features, graceful wings
+centaur, (half human half horse:1.2), horse lower body, human upper body, equine hybrid, centaur warrior, fantasy centaur
+dark elf, drow, dark skin, (white hair:1.2), pointed ears, violet or red eyes, dark elven beauty
+demon girl, small horns, demon tail, dark skin optional, otherworldly features, fang teeth, glowing eyes
+dragon girl, dragon horns, dragon tail, dragon wings optional, dragon scales on skin, reptilian eyes, dragon features
+1girl, female dwarf, (stocky dwarven woman:1.2), braid, short stature, strong arms, dwarven female, mountain woman, warrior woman
+1boy, male dwarf, (stocky dwarf:1.2), thick beard, braided beard, short stature, barrel-chested, dwarven features, mountain people
+elf, pointy ears, fair skin, ethereal beauty, long pointed ears, elven features, graceful elf
+1boy, male elf, (pointed ears:1.2), elven features, graceful male, long hair optional, elven male, fair features, forest elf man
+1boy, male fairy, (small fairy wings:1.2), pixie male, fairy dust, diminutive male, fae man, magical tiny male, forest fae
+fox girl, kitsune, fox ears, multiple fox tails, japanese spirit, fox features, fluffy tails, ethereal fox spirit
+1girl, goblin, green skin, short stature, large ears, goblin girl, small and wiry
+1girl, harpy, bird wings, wing arms, feathers, avian features, bird-like
+1girl, oni, japanese demon, horns, club weapon, red or blue skin, oni girl
+1girl, orc, green skin, tusks, muscular, orcish features, fantasy orc woman
+1boy, male orc, (green skin:1.3), tusks, muscular orc, orcish warrior, barbaric strength, brutal features, war paint
+1girl, plant girl, vine features, floral body, botanical, leaves in hair, nature being
+1girl, android, robot girl, mechanical joints, circuit patterns, synthetic, gynoid
+skeleton character, (animated skeleton:1.2), bone warrior, skull face, skeletal figure, animated bones, undead skeleton, sans-flesh
+1girl, slime girl, translucent body, gelatinous form, liquid being, slime entity
+undead character, (gaunt undead face:1.2), pale decaying skin, hollow eyes, death pallor, skeleton showing, lithe undead, lich aesthetic
+vampire girl, fangs, pale skin, red eyes, vampire features, nocturnal beauty, gothic vampire
+werewolf, (half-wolf transformation:1.2), lupine features, claws, wolf ears, fangs, transformation state, beast man, lycan, wolf hybrid
+1girl, wolf ears, fluffy wolf tail, wolf girl, canine features
+zombie, (walking dead:1.2), rotting flesh, milky eyes, shambling, decomposed, zombie horde aesthetic, undead horror, walking corpse
+(art deco:1.3), geometric elegance, gold accents, stepped forms, 1920s glamour, deco patterns, streamlined
+(art nouveau:1.3), organic flowing lines, decorative borders, floral motifs, mucha style, ornamental composition
+bande dessinee style, franco-belgian comic, ligne claire, Tintin-inspired, clean ink lines, flat colors, european comic style, clear line art
+rajput miniature painting, mughal miniature style, indian manuscript painting, flat decorative style, vibrant indian miniature, intricate border decoration, court scene painting
+(korean webtoon style:1.2), manhwa art, clean modern line art, webtoon coloring, bright clean aesthetics
+nordic folklore art style, scandinavian illustration, folk art norway, viking age aesthetic, norse mythology art, rosemaling pattern, nordic nature illustration
+persian miniature painting, illuminated manuscript style, intricate geometric border, flat perspective miniature, Persian court painting, detailed pattern, jewel-like colors
+(ukiyo-e style:1.3), japanese woodblock print, flat color areas, bold outlines, traditional japanese art, edo period art
+abandoned hospital, (decaying medical facility:1.2), peeling paint, broken equipment, dark corridors, rusty beds, overgrown decay, horror hallway
+airport terminal, (international airport:1.2), departure gates, travelers with luggage, large windows, flight boards, modern airport
+alien planet surface, (extraterrestrial landscape:1.2), strange sky color, alien flora, two moons, exotic terrain, otherworldly rocks, sci-fi landscape
+ancient Egypt, (Egyptian temple exterior:1.2), pyramids, hieroglyphs, stone columns, pharaoh statues, desert sun, sarcophagus hall
+ancient Greece, (Greek agora:1.2), white marble, Parthenon view, philosophers gathered, toga robes, Mediterranean blue sky, olive trees
+ancient Roman forum, (Roman public square:1.2), marble columns, toga-wearing citizens, Senate building, Mediterranean sunlight, ancient Rome
+ancient temple interior, (stone columns:1.2), torchlight, carved reliefs, ancient civilization, temple hall, overgrown stones, mystical atmosphere
+apartment balcony, (city view balcony:1.2), urban skyline, potted plants, evening view, city lights below, cozy outdoor space
+retro arcade, (video game arcade:1.2), rows of arcade machines, neon glow, dark interior, pixel game screens, 80s arcade, token machines
+art studio, painter's studio, easels, canvas, paint tubes, art supplies, wooden floor studio, artist workspace, creative studio, paint-stained walls
+cozy bakery, bread shelves, pastry display, warm bakery interior, wooden counters, baked goods, flour dusted surfaces, morning bakery, oven glow
+grand ballroom, chandeliers, marble floor, elegant decor, gold trim, formal setting, dance floor, tall windows
+ancient battlefield, (war-torn field:1.2), aftermath of battle, broken weapons, smoke, fallen soldiers, historical war scene, epic battle plain
+beach, ocean, sandy shore, waves, blue sky, palm trees, sunny day, sea breeze
+bedroom, bed, pillows, soft lighting, cozy room, window with curtains, nightstand
+burning building, (structure on fire:1.2), flames and smoke, fire engulfing walls, glowing embers, dramatic fire light, danger, smoke-filled
+bus stop in rain, (rainy bus shelter:1.2), umbrella, wet streets, passing headlights, rain on glass, waiting alone, melancholic urban
+cafe interior, coffee shop, wooden tables, warm lighting, coffee cups, window seat, cozy atmosphere
+city street at night, urban night scene, streetlights, wet pavement reflections, night city street, neon signs, downtown night, urban nightlife
+convenience store at night, (konbini interior:1.2), fluorescent lights, snack aisles, late night shopping, Japanese convenience store, empty aisles
+crystal cave, (crystal cavern:1.2), giant crystals, prismatic light, underground gems, glowing minerals, cave crystals, mineral formations
+cult chamber, (occult ritual room:1.2), candles in circle, arcane symbols, dark altar, hooded figures optional, ritual space, forbidden ceremony
+cyberpunk city, neon lights, rainy streets, towering skyscrapers, holographic ads, futuristic urban, neon reflections
+dark basement, (damp underground room:1.2), concrete walls, dripping water, single bare bulb, shadows in corners, horror basement, chains
+dark forest path, (twisted gnarled trees:1.2), winding path, forest shadows, dappled moonlight, foreboding woods, ancient forest, creeping roots
+decrepit church, (ruined gothic church:1.2), broken stained glass, fallen pews, altar with candles, crumbling stone, dark sacred space
+desert oasis, (palm trees in desert:1.2), sand dunes, water pool, caravans, hot sun, Middle Eastern desert, mirage, arid landscape
+dragon lair, (cave with gold hoard:1.2), scattered treasure, dragon bones, glowing crystals, enormous cavern, fantasy dungeon, treasure pile
+enchanted grove, (magical glowing forest:1.2), bioluminescent plants, fairy lights, ancient magical trees, mystical clearing, nature magic
+ancient ruins, crumbling stone, overgrown vines, broken columns, ethereal mist, forgotten temple, mystical atmosphere
+floating islands, (sky islands:1.2), islands in the clouds, waterfalls falling off edges, aerial view, fantasy sky world, cloud bridges
+flooded ruins, (submerged building interior:1.2), water covering floor, waterlogged decay, flooded corridor, reflections in water, post-disaster
+foggy cemetery, (graveyard in fog:1.2), tombstones, dead trees, low fog, iron fence, moonlit graves, crumbling mausoleum, ominous night
+foggy swamp, (murky bayou:1.2), gnarled cypress trees, Spanish moss, stagnant water, fog, eerie swamp, lantern light, voodoo territory
+enchanted forest, tall trees, dappled light, mossy ground, nature, woodland path, soft sunlight through leaves
+frozen arctic ruins, (ice-covered ancient structure:1.2), frozen wasteland, buried ruins under ice, arctic isolation, blizzard approaching, abandoned
+flower garden, blooming garden, flower beds, garden path, rose garden, colorful flowers, botanical garden, outdoor flower setting, garden bench
+gothic castle, stone walls, stained glass, torchlight, grand hall, stone pillars, dark atmosphere, medieval interior
+glass greenhouse, botanical garden, plants everywhere, glass ceiling, tropical plants, garden conservatory, lush interior
+gym interior, (modern fitness gym:1.2), weight equipment, mirrors, treadmills, gym lighting, workout space, fitness center
+harbor port, (fantasy or historical harbor:1.2), sailing ships, docks, rigging, sea port, fishermen, seagulls, coastal town
+haunted mansion, (Victorian haunted house:1.2), crumbling estate, broken windows, spider webs, dark hallways, creaking floors, abandoned grandeur
+holographic room, (holo displays:1.2), floating screens, data visualization, neon holograms, control room, digital interface, cyber command
+outdoor hot spring, onsen, steam rising, rocks, bamboo, natural pool, peaceful nature, mountain backdrop
+Japanese izakaya, (izakaya bar interior:1.2), wooden counter, sake bottles, paper lanterns, warm lighting, cozy Japanese bar, after-work drinks
+feudal japan, japanese architecture, torii gate, paper lanterns, wooden bridge, night atmosphere, traditional setting
+rocket launch pad, (space launch facility:1.2), massive rocket, launch tower, steam venting, mission control, space program, countdown
+grand library, bookshelves to ceiling, reading tables, warm lamp light, ancient books, wooden ladders, quiet atmosphere
+(liminal space:1.3), empty corridor, abandoned pool, empty hallway, eerie empty space, backrooms aesthetic, transitional space
+magic academy, (wizarding school:1.2), floating books, arcane classroom, magical library, floating candles, runes on walls, alchemy lab
+medieval town square, (cobblestone market:1.2), half-timbered buildings, market stalls, well, town crier, medieval crowds, European town
+mirror room, (infinite mirrors:1.2), reflections infinitely, disorienting space, broken mirrors, psychological horror, carnival mirror hall
+mountain peak, panoramic view, clouds below, dramatic sky, rocky summit, wind, vast horizon
+neon megacity, (cyberpunk street level:1.2), massive skyscrapers, holographic ads, rain-slick streets, neon signs, crowded urban future
+night market, (Asian night market:1.2), food stalls, lanterns, crowds, street food, vendors, neon signs, lively evening market
+observatory, telescope, domed ceiling, star charts, astronomy equipment, space observation room, glass dome ceiling, night sky visible, planetarium
+modern office, desk, computer, city view through window, professional environment, clean corporate space
+overgrown asylum, (abandoned psychiatric hospital:1.2), nature reclaiming, vines through windows, old padded rooms, faded medical decor, decay
+park bench in autumn, (fall park scene:1.2), falling leaves, golden trees, peaceful park, solitary bench, autumn colors, quiet moment
+pirate ship deck, (galleon deck:1.2), wooden planks, rigging, cannon ports, sea waves, jolly roger, ocean horizon, pirate crew
+post-nuclear wasteland, (irradiated ruins:1.2), destroyed city ruins, dead trees, ash sky, rusted cars, fallout world, desolate landscape
+looking through rainy window, rain on glass, window with raindrops, cozy indoor rainy day, rain streaks on window, indoor watching rain
+Renaissance workshop, (artist atelier:1.2), paintings on walls, sculpting tools, Italian architecture, creative space, Renaissance Italy
+research laboratory, (sci-fi lab:1.2), test tubes, holographic screens, sterile white environment, scientists, experiment chambers, advanced tech
+rooftop garden, (urban garden rooftop:1.2), plants and flowers, city skyline background, terrace garden, peaceful urban oasis, sunset view
+rooftop at night, city skyline below, rooftop edge, urban rooftop, city lights below, night city view from above
+royal palace hall, (grand throne hall:1.2), marble columns, red carpet, golden decor, banners hanging, opulent interior, royal court
+overgrown ruins, nature reclaiming building, ivy covered walls, crumbling structure, post-urban nature, moss and vines
+school classroom, desks, blackboard, chalk, school windows, afternoon light, empty classroom
+server room, (data center:1.2), rows of servers, blinking lights, cooling fans, blue light, network infrastructure, digital backbone
+shopping mall, (modern retail mall:1.2), escalators, brand stores, food court, shoppers, mall interior, commercial space, fountain
+Silk Road caravan, (desert trading route:1.2), camels, traders, Middle Eastern markets, ancient trade route, oasis stop, merchant tents
+snowy path, snow-covered trail, winter path, walking through snow, snowflakes falling, bare trees in snow, silent snowy landscape, deep snow
+space colony dome, (biodome on planet:1.2), transparent dome, cultivated interior, humans living in space, colony buildings, terraformed interior
+space debris field, (satellite graveyard:1.2), floating wreckage, old satellites, space junk, Earth in background, zero gravity debris
+space station interior, (zero gravity corridor:1.2), white futuristic panels, space windows with stars, sci-fi hallway, space base interior
+concert stage, spotlight, stage lights, microphone, audience silhouette, performance venue, dramatic stage lighting
+submarine interior, (deep sea vessel:1.2), porthole windows, dark ocean outside, cramped quarters, sonar room, bioluminescent creatures outside
+tavern interior, (medieval inn:1.2), wooden beams, fireplace, ale mugs, rowdy atmosphere, candle sconces, adventurer hangout, bar counter
+throne room, grand throne, ornate hall, royal chamber, imposing seat of power, regal interior
+train station platform, (commuter rail platform:1.2), trains passing, platform crowds, station signs, rushing commuters, metro station
+underground bunker, (military bunker interior:1.2), reinforced concrete, emergency lighting, blast doors, survival shelter, post-apocalyptic safe room
+underground dungeon, (stone cell corridor:1.2), iron bars, torch sconces, dungeon corridor, dark stone walls, chains, medieval prison
+vehicle interior, train window seat, car backseat, bus window, subway car, rain on window, night driving atmosphere
+Victorian street, (Victorian era London:1.2), gas lamps, horse carriages, cobblestone, Victorian architecture, top hats, fog, 1800s London
+fantasy village market, (medieval marketplace:1.2), market stalls, cobblestone, merchants, colorful banners, village square, fantasy town
+WW2 trench, (wartime trench:1.2), muddy battlefield, barbed wire, soldiers, sandbags, grey sky, WWI or WWII warfare, war atmosphere
+wild west town, (frontier town main street:1.2), saloon, wooden buildings, dusty road, hitching posts, wanted posters, cowboy era
+wizard tower, (sorcerer's study:1.2), spiral stairs, magical artifacts, glowing orbs, star charts, telescope, arcane library, tower top
+(Y2K aesthetic:1.2), early 2000s digital, chrome elements, translucent plastic, 2000s internet visual, early CGI feel, bubbly 2000s design
+3d render, 3d anime style, cgi anime, smooth 3d shading, rendered character, three-dimensional
+grindhouse film aesthetic, (1970s film look:1.2), gritty film grain, faded colors, exploitation film, pulp cinema, scratched film, retro horror poster
+(synthwave aesthetic:1.2), neon purple and pink, retrowave, grid lines, 80s electronic, outrun style, neon sunset, retro futurism 80s
+(VHS tape aesthetic:1.2), video tape grain, scan lines, analog distortion, tracking error, 80s video quality, VHS glitch, home video
+90s anime style, retro anime aesthetic, classic 90s art, vintage anime, old school anime shading, cel shading
+action game art style, game character design, sharp rendering, vibrant saturated colors, game art aesthetic
+anime style, classic anime art, clean lineart, anime shading, vibrant colors, standard anime aesthetic
+baroque style, dramatic baroque painting, strong chiaroscuro, rich colors, dynamic composition, baroque portrait, theatrical drama, Caravaggio-inspired, old master painting
+(body horror aesthetic:1.2), grotesque transformation, surreal body, organic horror, disturbing anatomy, biological horror, visceral surrealism
+(cel shading:1.2), cell shaded, hard shadow cel, toon shading, sharp shadow anime, flat shadow render
+charcoal drawing, charcoal sketch, black charcoal on white paper, smudged charcoal, academic drawing, charcoal texture, classical charcoal portrait
+chibi style, super deformed, cute chibi, big head small body, chibi proportions, kawaii chibi
+clay render, clay material, claymation aesthetic, matte clay texture, rounded soft shapes, stop motion feel, clay character
+colored pencil art, colored pencil illustration, pencil stroke texture, waxy pencil shading, hand-drawn colored pencils, layered pencil marks, colored pencil realism
+(western comic book style:1.2), Marvel or DC aesthetic, bold inks, flat colors, dynamic poses, speech bubble ready, superhero art
+concept art style, character concept, design sheet feel, professional game concept, clean character design
+(cosmic horror aesthetic:1.2), Lovecraftian, eldritch, non-Euclidean, impossible geometry, tentacles in distance, vast unknowable, dark surrealism
+(dark fantasy anime:1.2), dramatic anime with dark themes, berserk-style art, detailed dark rendering, intense anime, mature dark anime
+dark gothic style, moody atmosphere, dark aesthetic, crimson accents, gothic art, dark elegant
+ultra detailed, highly detailed, photorealistic anime, detailed skin, detailed fabric, premium quality rendering
+(exploitation movie poster:1.2), pulp art, bold text space, retro illustration, grindhouse poster, dramatic poses, pulp fiction aesthetic
+(film noir:1.2), hard shadow, single light source, venetian blind shadows, black and white contrast, detective drama, 1940s cinema, femme fatale lighting
+(found footage aesthetic:1.2), handheld camera shake, night vision green, low resolution, date stamp overlay, amateur camera look, shaky cam
+(gothic horror painting:1.2), Victorian gothic art, oil painting horror, dark romanticism, dramatic horror illustration, Fuseli nightmare style
+gouache painting style, flat color gouache, opaque watercolor, graphic gouache illustration
+impressionist style, loose brushstrokes, light and color focus, impressionistic painting, atmospheric rendering
+ink drawing, crosshatching, pen and ink, detailed linework, etching style, ink illustration
+low poly art, low polygon, geometric faces, triangulated surfaces, faceted shading, flat color polygons, low poly 3d
+(magical girl anime:1.2), sparkle effects, transformation sequence aesthetic, sailor moon style, pastel magical, star wand, ribbon effects
+(manga screentone:1.2), halftone dot shading, black white manga, ink lines, manga panel aesthetic, screentone texture, Japanese manga
+(mecha anime style:1.2), giant robot aesthetic, mechanical detail, super robot art, Gundam-style rendering, cockpit view, mech battle
+modern anime style, polished, glossy finish, contemporary digital art, clean smooth rendering, high production value
+(neon noir:1.2), dark environment with neon accents, rain reflection neon, cyberpunk darkness, colored light in shadow, noir meets neon
+oil painting style, painterly, visible brushstrokes, classical painting aesthetic, painted texture, artistic
+(16-bit pixel art:1.2), pixelated, SNES era style, sprite aesthetic, retro game graphics, pixel character, chunky pixels, 90s game art
+(vintage propaganda poster:1.2), bold graphic design, simplified shapes, heroic composition, retro state poster, powerful poster art, stark colors
+(risograph print:1.2), two-color offset printing, slight misregistration, textured paper look, indie print aesthetic, grain overlay, limited palette
+(seinen manga style:1.2), detailed linework, gritty realism, adult themes aesthetic, crosshatching, moody seinen panels, mature manga art
+(shojo anime style:1.2), sparkles and flowers, soft rendering, romantic manga, delicate linework, dreamy backgrounds, shoujo panels
+(shonen anime style:1.2), dynamic action lines, bold outlines, energetic composition, battle manga aesthetic, determined expressions, power aura
+silent film aesthetic, (1920s film:1.2), black and white, high contrast, theatrical makeup, expressionist angles, silent era cinema, iris vignette
+sketch style, pencil lineart, hand-drawn look, rough sketch, pencil drawing aesthetic, monochrome sketch
+soft pastel colors, gentle palette, pastel art style, dreamy colors, watercolor-like softness, muted tones
+storybook illustration, fairy tale art, children's book style, whimsical illustration, folk art illustrated
+surrealist art, dreamlike surrealism, Salvador Dali inspired, impossible scene, melting reality, dream logic, surreal imagery, distorted perspective dream
+(technical blueprint:1.2), architectural drawing, blue and white blueprint, engineering diagram, schematic lines, technical illustration, cross-section
+visual novel art style, VN character art, dating sim style, light novel illustration, character sprite style
+voxel art, voxel style, 3d pixel art, cubic voxels, minecraft-like aesthetic, blocky 3d, voxel render, isometric voxel
+watercolor style, watercolor wash, soft color bleeding, watercolor texture, translucent colors, painted wash
+woodcut print, linocut, printmaking style, rough carved lines, high contrast black white print, relief print texture, bold graphic woodcut, stamp-like quality
+(action thriller:1.2), high stakes action, chase scene energy, explosive moment, combat readiness, thriller tension, action movie feel
+(comedy aesthetic:1.2), lighthearted, playful scene, comedic timing, funny moment, whimsical, gag scene, slice of life comedy
+(fairytale aesthetic:1.2), storybook world, fairy tale setting, magical kingdom, enchanted story, once upon a time, fantasy children story
+(high fantasy adventure:1.2), heroic quest, fantasy world, epic journey, hero party, adventure setting, dungeon delving, fantasy campaign
+(cozy fantasy:1.2), warm hearth magic, cottage witch, gentle magic, cozy magical world, comfortable magic, soft fantasy, cottagecore magic
+(dark fantasy:1.2), grimdark, morally grey, brutal fantasy world, dark medieval, blood and iron, grim realism in fantasy setting
+(mythology:1.2), mythological setting, ancient gods, hero of legend, mythological creature, epic myth, Greek Norse or Eastern mythology
+(ancient history:1.2), classical antiquity, ancient civilization, pre-medieval, historical accuracy, ancient world, historical setting
+(historical warfare:1.2), military history, battlefield, war setting, soldiers in period uniform, historical conflict, war atmosphere
+(cosmic horror:1.2), Lovecraftian dread, eldritch entity, incomprehensible scale, void of space, ancient god, stars that are wrong
+(psychological horror:1.2), mental dread, surreal threat, reality bending, paranoia, unreliable perception, mind horror, inner fear
+(slasher horror:1.2), masked killer aesthetic, stalker threat, final girl situation, horror movie tropes, knife in shadow, monster hunter
+(supernatural horror:1.2), ghost, haunting, paranormal activity, spirit manifestation, supernatural dread, otherworldly terror, haunted atmosphere
+(survival horror:1.2), desperate survival, monster threat, limited resources, dark tension, horror game aesthetic, hiding from danger
+(mystery noir theme:1.2), detective investigation, crime scene, shadowy intrigue, whodunit, hidden clues, noir atmosphere, secrets
+(romance drama:1.2), emotional connection, two people moment, tender encounter, romantic tension, dramatic love, emotional peak, romantic scene
+(cyberpunk theme:1.2), corporate dystopia, high tech low life, netrunner culture, implants, neon mega city, digital underground
+(post-apocalyptic:1.2), end of civilization, wasteland survivor, collapsed society, after the fall, ruins of the old world, survivor culture
+(space opera:1.2), galactic civilization, starships, alien races, epic space scale, interstellar conflict, sci-fi universe, space adventure
+(slice of life:1.2), everyday moment, mundane beauty, cozy daily life, ordinary is extraordinary, warm human moment, peaceful everyday

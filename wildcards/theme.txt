@@ -1,0 +1,20 @@
+(action thriller:1.2), high stakes action, chase scene energy, explosive moment, combat readiness, thriller tension, action movie feel
+(comedy aesthetic:1.2), lighthearted, playful scene, comedic timing, funny moment, whimsical, gag scene, slice of life comedy
+(fairytale aesthetic:1.2), storybook world, fairy tale setting, magical kingdom, enchanted story, once upon a time, fantasy children story
+(high fantasy adventure:1.2), heroic quest, fantasy world, epic journey, hero party, adventure setting, dungeon delving, fantasy campaign
+(cozy fantasy:1.2), warm hearth magic, cottage witch, gentle magic, cozy magical world, comfortable magic, soft fantasy, cottagecore magic
+(dark fantasy:1.2), grimdark, morally grey, brutal fantasy world, dark medieval, blood and iron, grim realism in fantasy setting
+(mythology:1.2), mythological setting, ancient gods, hero of legend, mythological creature, epic myth, Greek Norse or Eastern mythology
+(ancient history:1.2), classical antiquity, ancient civilization, pre-medieval, historical accuracy, ancient world, historical setting
+(historical warfare:1.2), military history, battlefield, war setting, soldiers in period uniform, historical conflict, war atmosphere
+(cosmic horror:1.2), Lovecraftian dread, eldritch entity, incomprehensible scale, void of space, ancient god, stars that are wrong
+(psychological horror:1.2), mental dread, surreal threat, reality bending, paranoia, unreliable perception, mind horror, inner fear
+(slasher horror:1.2), masked killer aesthetic, stalker threat, final girl situation, horror movie tropes, knife in shadow, monster hunter
+(supernatural horror:1.2), ghost, haunting, paranormal activity, spirit manifestation, supernatural dread, otherworldly terror, haunted atmosphere
+(survival horror:1.2), desperate survival, monster threat, limited resources, dark tension, horror game aesthetic, hiding from danger
+(mystery noir theme:1.2), detective investigation, crime scene, shadowy intrigue, whodunit, hidden clues, noir atmosphere, secrets
+(romance drama:1.2), emotional connection, two people moment, tender encounter, romantic tension, dramatic love, emotional peak, romantic scene
+(cyberpunk theme:1.2), corporate dystopia, high tech low life, netrunner culture, implants, neon mega city, digital underground
+(post-apocalyptic:1.2), end of civilization, wasteland survivor, collapsed society, after the fall, ruins of the old world, survivor culture
+(space opera:1.2), galactic civilization, starships, alien races, epic space scale, interstellar conflict, sci-fi universe, space adventure
+(slice of life:1.2), everyday moment, mundane beauty, cozy daily life, ordinary is extraordinary, warm human moment, peaceful everyday

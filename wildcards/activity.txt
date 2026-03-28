@@ -1,0 +1,22 @@
+(archery:1.2), drawing bow, arrow nocked, archer stance, longbow or compound, aiming, forest target, hunter skill
+(heated argument:1.2), pointing finger, confrontation, verbal conflict, debate, two people disagreeing, tense conversation
+(celebrating:1.2), party moment, raising glass, confetti, jubilation, group celebration, festival joy, cheering crowd
+(cooking:1.2), kitchen activity, holding ladle or spatula, apron, mixing bowl, culinary, food preparation
+(crafting or building:1.2), hands working, making something, artisan at work, creating with hands, workshop activity, building skill
+(dancing:1.3), dynamic dance pose, flowing movement, arms raised, hair flowing, mid-dance, graceful motion
+(battle pose:1.3), combat stance, sword raised, dynamic action, mid-battle, weapon in hand, heroic action pose
+playing video games, (controller in hands:1.2), gamer, focused on screen, headset optional, sitting cross-legged
+looking into the distance, (contemplative pose:1.2), hand shielding eyes, wind in hair, standing at edge, vista view
+(riding a horse:1.2), on horseback, galloping, cavalry charge, horse and rider, equestrian, riding through landscape
+(investigation:1.2), examining clues, looking closely, detective work, searching scene, magnifying glass, piecing together mystery
+(magic casting:1.3), spell circle, magical energy, glowing hands, arcane symbols, mystical aura, channeling power
+(meditation:1.2), cross-legged, eyes closed, inner peace, meditative pose, zen, floating slightly, calm aura, spiritual practice
+(painting:1.2), artist at easel, paintbrush in hand, canvas, palette, art studio, paint smudges, creating artwork, artist at work
+reading a book, (book in hands:1.2), sitting with book, open book, studious, glasses optional, cozy reading pose
+(running:1.3), mid-sprint, dynamic run pose, hair flying back, motion blur implied, energetic, athletic movement
+(singing:1.3), performing a song, microphone, mouth open singing, eyes closed while singing, musical performance, concert singing, passionate singing
+sitting, (relaxed pose:1.2), comfortable seated position, legs crossed, casual sitting, at ease, resting
+(sleeping:1.2), asleep, peaceful sleep, curled up sleeping, eyes closed, resting, cozy sleep, pillow, sleeping soundly
+(stretching:1.2), yoga pose, flexible pose, split stretch, reaching forward, limber, warm-up pose, gymnastic
+(swimming:1.2), underwater, swimmer, water splash, floating in water, backstroke, pool, ocean swimming, submerged
+(sword practice:1.2), training kata, sword form, blade technique, practice swing, training grounds, kendo or swordsmanship, focus

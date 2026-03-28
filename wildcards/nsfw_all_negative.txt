@@ -1,0 +1,587 @@
+blurry, soft focus, simple, plain, low detail, sketch
+landscape, random crop, text-heavy
+single angle, dramatic lighting, background scene
+wide landscape, random composition
+lowres, (bad anatomy:1.3), (bad hands:1.4), (mutated hands:1.4), (extra fingers:1.5), (fused fingers:1.5), (missing fingers:1.5), text, error, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, blurry, (extra limbs:1.5), (malformed limbs:1.4), (mutation:1.4), (deformed:1.4), nsfw, explicit, nude, naked
+worst aesthetic, bad aesthetic, lowres, year 2020, year 2021, year 2022, (bad anatomy:1.3), (bad hands:1.4), (extra fingers:1.5), (fused fingers:1.5), (extra limbs:1.5), (malformed limbs:1.4), (bad proportions:1.3), (deformed:1.4), blurry, jpeg artifacts, text, watermark, nsfw, explicit, nude, naked
+score_4, score_5, score_6, source_cartoon, source_pony, source_furry, 3d, realistic, photorealistic, (bad anatomy:1.3), (bad hands:1.4), (mutated hands:1.4), (extra fingers:1.5), (fused fingers:1.5), (missing fingers:1.5), (extra limbs:1.5), (missing limbs:1.4), (malformed limbs:1.4), (bad proportions:1.3), (mutation:1.4), (deformed:1.4), blurry, jpeg artifacts, text, watermark, nsfw, explicit, nude, naked
+no bag
+plain ears, no jewelry
+commoner, no headpiece
+no weapons, pacifist, cooking, reading
+no glasses, contacts
+no hat, bare head
+no headphones
+no accessories, rough gear
+no weapon, magic staff
+no makeup, natural, plain
+matte lips, no makeup
+heavy makeup, gothic, dramatic
+no makeup, dramatic eyeshadow
+bare face, no mask
+bare face, no mask
+summer, bare neck
+plain skin, no tattoos
+no wings, plain back
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+peaceful, calm, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+sad, solemn, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+outdoor battle, fantasy
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+static, sitting, sleeping, stiff pose
+sitting, relaxed, cooking, reading
+outdoor, nature, dancing
+indoor, sitting still, reading
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+mundane activity, cooking, gaming
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+gaming, fighting, cooking
+dancing, fighting, dynamic pose
+sitting, still, static pose
+silent, reading, gaming
+dynamic, fighting, dancing, running
+standing, active, running, fighting
+stiff, rigid, sitting still
+indoor dry, desert, winter cold
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+humanoid, human, chibi, cartoon, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+anthropomorphic, human, cartoon, human, anthropomorphic, text, watermark, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern, casual, office
+peasant, casual, modern, sporty
+bright, colorful, casual, maid
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+male, boy, no ears, casual
+male, boy, dog ears, wolf ears, no tail
+male, boy, dark clothes, nun, warrior
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+male, boy, angel, pastel colors, cute
+fantasy, armor, bright casual
+male, boy, round ears, heavy armor, modern clothes
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+large, human-sized, armor, modern
+modern, casual, armor
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+fantasy, medieval, casual, no tech
+male, boy, dark clothes, gothic, grim
+casual, fantasy robe, modern
+male, boy, bright colors, maid, casual clothes
+fantasy, armor, loud, casual
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+male, boy, dark colors, grim, realistic
+male, boy, dirty, torn clothes, nude
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+fantasy, clean, formal
+legs, standing, land, dry
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+male, boy, colorful clothes, fantasy armor
+fantasy, armor, outdoor, casual
+male, boy, casual, fantasy, armor
+modern, office, school uniform
+peasant, casual, modern, armor
+modern, western, casual
+fantasy, armor, outdoor
+male, boy, modern clothes, western outfit
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+fantasy, medieval, traditional
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+male, boy, angel, halo, bright wings
+casual, fantasy, armor
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+male, boy, modern clothes, maid, office worker
+male, boy, no hat, modern clothes
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+daytime, urban, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+warm, summer, tropical
+serious, dark, melancholic
+clean, sterile, outdoor rain
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dusty, mechanical, urban
+rain, water, cold, snow
+urban, indoor, snow, rain
+cheerful, bright, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dark, gritty, industrial, realistic
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+spring, summer, snow
+winter, snow, autumn leaves
+winter, autumn, rain
+summer, beach, tropical
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bright midday, harsh sun
+night, dark, midnight
+night, overcast, cold
+daytime, sunrise, bright
+clear, bright, sharp background
+dry, sunny
+dry, sunny, clear sky
+sunny, warm, clear
+still, calm, no movement
+obviously feminine, curvy, busty
+flawless skin, no marks, pristine
+human, humanoid, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+young, smooth skin, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+perfect skin, flawless, no marks
+deformed body, bad proportions, overweight, chubby, male, boy
+female, feminine, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, thin, slim, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, muscular, bulky, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, thin, slim, tall, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+child, young, teenage, loli, chibi, male, boy, underage
+weak, frail, chubby, overweight, petite, male, boy
+inverted triangle, broad shoulders, uniform
+muscular, tall, wide hips, thick thighs, voluptuous, male, boy
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+short, stubby, chibi, petite, male, boy
+skinny, thin, slender, petite, flat chest, narrow hips, bony, male, boy
+static, centered, symmetrical
+flat angle, boring composition
+open composition, no framing
+cluttered, crowded frame, busy background
+asymmetrical, dynamic
+wide, full body, establishing
+full body, wide shot, distant
+telephoto, compressed, standard lens
+from below, worm eye
+from above, flat angle
+close up, face only, cropped
+square, portrait, standard
+full frontal, close face
+frontal, from below
+full body, extreme close up
+full focus, standard, no blur
+close up, face focus, portrait
+static, standing still, boring pose, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+facing camera, front view, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+full body, background heavy, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+messy, unclear, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+single character, solo, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+timid, weak pose, background clutter, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+friendly, cheerful, bright lighting, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+flat, no lighting, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+no rabbit, no bunny
+dog, dragon, alone
+no bird, no crow
+cat, dragon, alone
+realistic, mundane
+no fox, cat, dog
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+organic, living creature
+no owl, no bird
+large dragon, cat, dog
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+small animal, cat, domestic
+standing grounded, normal gravity
+clean empty air, no particles
+static, still, no movement
+dry, still water, no splash
+still, static, calm, no movement
+cute, clean, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+harsh, no glow, flat
+deep focus, sharp background, flat
+clean optics, no distortion
+clean digital, smooth, pristine
+no flare, flat lighting
+bright corners, even exposure
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern, western, futuristic
+modern, futuristic, sci-fi
+pristine, modern, clean, luxury
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+gritty, dark, medieval, organic
+modern, sleek, futuristic, clean
+modern, futuristic, casual
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+playful, shy, laughing
+smiling, gentle, warm
+energetic, bright-eyed, cheerful
+angry, sad, fierce, cold
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+sad, serious, stoic, fierce
+calm, serene, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+laughing, cheerful, energetic
+smiling, laughing, serene
+confident, smug, fierce
+innocent, shy, crying
+emotional, expressive, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+calm, serene, bored
+calm, peaceful, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+serious, crying, fierce
+normal expression, warm, friendly
+natural blue green brown
+blue eyes, green eyes, dark eyes
+matching eyes, uniform color
+warm brown, golden, colored
+brown eyes, natural eye color
+perfectly smooth hair, no stray strands
+loose straight, bob, twin tails
+long hair, twin tails, flowing
+natural hair color, plain black, plain brown
+straight hair, silky hair, bob
+short hair, bob, buzzcut
+fully down, twin tails
+loose hair, bun
+long hair, twin tails, ponytail
+short hair, bob, bun
+long uniform hair, no shaving
+dry hair, fluffy, styled
+black hair, brunette, dark hair
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dark, moody, dim
+cold, clinical, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bright, neon, cold light
+bright, cheerful, clinical
+flat lighting, bright cheerful
+natural, calm, warm
+dark, dim, underground, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+night, dark, cold
+cheerful, bright, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cold, neon, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+sunny, daytime, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+natural, soft, dim, monochrome
+natural, warm, golden
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+daytime, bright sun, warm
+harsh sun, dramatic shadows
+natural light, outdoor, sunlight
+harsh lighting, cold blue light, dark
+even lighting, multiple sources, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+plain light, outdoor, neon
+urban, light pollution, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+outdoor, natural, dark
+soft, natural, top-down
+outdoor dry, indoor
+flat, overcast, dim
+shy, timid, scared, withdrawn
+relaxed, uncertain, lost
+sharp, alert, focused, fierce
+rough, messy, chaotic, casual, sporty
+calm, serious, stoic, melancholic
+energetic, bright, cheerful
+gentle, shy, cute, playful
+distracted, laughing, sleepy
+happy, cheerful, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cheerful, laughing, energetic
+cheerful, open, expressive, laughing
+serious, cold, stoic, melancholic
+friendly, warm, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dismissive, bored, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+calm, neutral, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+aggressive, fierce, anxious, chaotic
+confident, dominant, aggressive, cold
+energetic, alert, fierce
+casual, plain, armor, uniform
+formal, structured, armor, uniform
+casual, fantasy, armor, school uniform
+formal, armor, fantasy, uniform, nude
+urban, cyberpunk, armor, dark
+fantasy, medieval, kimono, casual
+bright colors, casual, fantasy
+casual, sporty, armor, uniform, torn
+dark, armor, urban, cyberpunk
+modern clothes, casual, office, school uniform
+pastel, bright colors, sporty, swimwear
+modern, western, armor, casual
+modern, casual, fantasy light armor
+modern, bright casual, office
+fantasy, armor, formal evening
+casual, sporty, minimalist, armor
+medieval, fantasy, casual, historic
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+formal, armor, fantasy, tight
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+adult professional, armor, fantasy, nude
+formal, armor, fantasy, skirt, dress
+formal, armor, fantasy, dress
+armor, formal, winter clothes, heavy clothing
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+formal, fantasy, casual plain
+western, casual, fantasy armor
+western, casual, armor, modern
+modern clothes, western, armor, casual
+modern, western, fantasy armor, casual
+swimwear, summer clothes, bikini, bare arms
+warm, golden, earthy
+full color, multicolor, realistic
+low contrast, flat, washed out
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+natural color, realistic tones
+colorful, vibrant, saturated
+vibrant, saturated, neon
+vibrant, saturated, neon, cold
+monochrome, pastel, flat
+natural colors, earthy, muted
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cold, blue, neon, desaturated
+static, standing, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+open arms, reaching out, relaxed
+arms down
+facing forward, front view
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+standing, upright
+relaxed, open stance
+energetic, standing, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+grounded, stable, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+grounded, on ground, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+arms at side, no hip contact
+straight head, rigid
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+grounded, standing
+standing, running, jumping
+standing straight, rigid, dynamic battle
+facing forward, frontal pose
+standing, sitting upright
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+standing still, static
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+floor, standing
+center seated, standing
+standing, on chair
+upright, proud, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+tense, rigid, formal
+no hand near face
+defeated, slumped, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+standing still
+hand down, no wave
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+indoor, fantasy, armor
+no book
+modern phone, no camera
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+weapon, tech, dark
+no instrument, sword, weapon
+modern tech, cold, sterile
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+no cup, coffee
+no props, weapon, instrument
+demon, dark, horns, tail
+fully human, fully horse, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+fair skin elf, human, round ears
+angel, halo, pure
+no horns, no tail, plain human
+male, tall, slim, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, tall, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+round ears, human, orc, demon
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+no ears, no tail, western
+tall, elf, human
+human arms, no wings
+western demon, elf
+elf, human, pale skin
+female, 1girl, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+animal, human standard
+organic, human only
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+solid, human body
+healthy, living, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+sunlit, cheerful, tanned
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cat ears, fox ears
+beautiful, healthy, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+organic, medieval, futuristic
+geometric, minimalist, angular
+manga, anime, painted, rough
+western, modern, digital, 3d
+rough, painterly, western cartoon
+modern, digital, anime
+western, modern, digital, 3d
+3d, realistic, western
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+office, outdoor, dungeon
+outdoor, dungeon, office, fantasy
+outdoor, dungeon, cafe
+bad anatomy, blurry, low quality, watermark
+indoor, dungeon, winter
+outdoor, dungeon, office
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+outdoor battle, dungeon, office
+indoor, fantasy, nature
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+fantasy, nature, traditional
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+modern, cafe, office
+bad anatomy, blurry, low quality, watermark
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+indoor, urban, futuristic
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+indoor, dungeon, urban
+modern, cafe, beach, office
+urban, dark, outdoor bare
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+indoor, urban, battle
+bad anatomy, blurry, low quality, watermark
+modern, western, futuristic
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+outdoor, battle, beach
+crowded, busy, populated
+bad anatomy, blurry, low quality, watermark
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+indoor, dungeon, cafe
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+outdoor, dungeon, cafe
+fantasy, dungeon, beach, outdoor
+cheerful, bright colors, cute, kawaii, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+outdoor, dry, bright sunny
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+indoor, forest, nature
+bad anatomy, blurry, low quality, watermark
+pristine, clean, maintained
+outdoor, dungeon, office
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+summer, tropical, indoor
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+nature, outdoor, dungeon
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+humble, outdoor, casual
+bad anatomy, blurry, low quality, watermark
+medieval, fantasy magic, natural landscape, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+outdoor, open space, static room
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern clothing, contemporary, sci-fi, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+flat 2d, sketchy, traditional
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+modern, digital, 3d, photorealistic
+soft, pastel, watercolor, sketchy
+realistic, photorealistic, western cartoon, 3d
+flat, minimal, modern, digital
+cute, clean, bad anatomy, blurry, low quality, watermark
+painterly, soft shading, realistic
+colored, digital, polished, painted
+realistic proportions, serious, dark
+sharp, glossy, photorealistic, flat
+digital, flat, painted, photorealistic
+bad anatomy, blurry, low quality, watermark
+painterly, sketchy, watercolor
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+pastel, bright, cheerful
+simple, flat, cartoon, rough
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+3d, realistic, sketchy
+sharp, detailed, clean digital
+colored, soft, painterly
+high detail, photorealistic, smooth curves
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+sketchy, rough, retro, 3d
+bad anatomy, blurry, low quality, watermark
+flat, digital clean, sharp
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+bad anatomy, blurry, low quality, watermark
+colored, polished, digital clean
+dark, harsh, high contrast, neon
+realistic, dark, mature
+realistic, grounded, documentary
+bad anatomy, blurry, low quality, watermark
+realistic, 3d, rough sketch
+smooth, photorealistic, flat 2d
+sharp, clean digital, hard edges
+digital, smooth, photorealistic, colored
+slow, peaceful, quiet, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dark, grim, horror, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dark, horror, realistic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern, sci-fi, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dangerous, dark, grim, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cheerful, bright, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern, contemporary, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+modern, contemporary, fantasy magic, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+peaceful, civilian, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+physical, literal, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+scientific, mundane, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cheerful, safe, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+cheerful, bright, obvious, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+action, violent, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+fantasy, medieval, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+thriving, prosperous, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+fantasy, medieval, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality
+dramatic, epic, fantasy, bad anatomy, bad hands, extra fingers, extra limbs, blurry, jpeg artifacts, text, watermark, low quality

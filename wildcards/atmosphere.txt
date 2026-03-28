@@ -1,0 +1,28 @@
+(volcanic ash falling:1.2), ash in the air, grey snowfall, ash-covered ground, post-volcanic, pale grey ash, silent ash fall
+(northern lights:1.3), aurora borealis, green and purple sky, polar lights, arctic sky glow, dancing auroras, night sky phenomenon
+breath visible in cold air, exhaled breath mist, cold breath cloud, winter breath condensation, freezing cold breath effect
+(confetti falling:1.3), colorful confetti, celebration confetti, paper confetti shower, festive confetti, party atmosphere, confetti stream
+dust particles in sunlight, light shafts with dust, floating dust motes, sunbeam dust, golden dust particles, indoor sunbeam particles
+(solar eclipse:1.3), eclipse ring, darkened sun, corona visible, surreal sky, mid-day darkness, eclipse atmosphere, rare phenomenon
+(falling petals:1.3), flower petals in air, drifting petals, scattered petals, wind-blown petals, petal shower, petals falling around character
+(floating embers:1.3), fire embers rising, burning sparks in air, glowing ember particles, campfire embers, fire sparks floating upward
+(fireflies:1.3), glowing fireflies, bioluminescent insects, firefly lights, summer night fireflies, floating light bugs, warm glow fireflies
+(red tinged mist:1.3), blood mist, crimson fog, horror atmospheric mist, ominous red haze, threatening fog
+(ground level fog:1.3), low lying mist, knee-high fog, ground fog, creeping mist, fog hugging floor, cemetery fog
+(magical sparkles:1.3), glowing particles, arcane sparkles, floating light orbs, magical dust, glitter particles, enchanted atmosphere, shimmering magic
+(sandstorm:1.3), desert sand storm, orange dust cloud, blinding sand, desert wind, dust devil, sand wall approaching
+autumn season, falling leaves, orange red leaves, autumn colors, leaf-covered ground, warm autumn tones
+spring season, cherry blossoms, sakura petals, pink flowers, blooming trees, gentle spring breeze, sakura falling
+summer season, bright sun, warm weather, blue sky, summer heat haze, vibrant colors, clear skies
+winter season, snow, snowflakes, frost, icy breath visible, winter cold, white landscape, snow-covered ground
+(industrial smoke:1.2), factory haze, pollution haze, thick smoke atmosphere, smoggy sky, industrial atmosphere, smoke plumes
+(floating spores:1.2), bioluminescent spores, particle spores, forest spores, magical dust particles, glowing floating particles
+blue hour, twilight, dusk, deep blue sky, transition from day to night, indigo atmosphere, purple twilight
+dawn, early morning light, first light, pale sky, sunrise beginning, soft pink and orange horizon, morning mist
+golden hour, warm afternoon light, long golden shadows, warm glow, magic hour, late afternoon sun
+midnight, deep night, starry sky, full darkness, night atmosphere, moonlit shadows, nocturnal
+(dense fog:1.3), thick mist, foggy atmosphere, obscured background, misty air, fog rolling in, visibility reduced
+(gentle rain:1.2), light drizzle, rain drops, soft rain, wet pavement, grey sky, peaceful rain
+(heavy rain:1.3), pouring rain, rain streaks, wet everything, splashing puddles, rain-soaked, rain on surface
+(snowstorm:1.2), blizzard, heavy snowfall, snow swirling, white-out conditions, blowing snow, icy wind
+(strong wind:1.2), wind effect, wind blowing hair, fabric in wind, leaves swirling, dynamic wind, gusts

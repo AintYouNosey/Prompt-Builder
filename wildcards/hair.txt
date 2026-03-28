@@ -1,0 +1,13 @@
+(ahoge:1.2), single antenna hair, cowlick, one strand sticking up, cute ahoge
+(braided hair:1.2), braid, french braid, side braid, interwoven hair, elven braid, detailed braid
+(buzzcut:1.2), shaved sides, high fade, military cut, close cropped sides, short top with shaved sides
+(multicolor hair:1.2), dyed hair, gradient hair, pastel highlights, pink and white, blue tips, ombre hair
+(dreadlocks:1.3), locs, thick dreads, long dreadlocks, natural locs, decorated dreads, beaded dreads
+(long hair:1.2), flowing hair, silky straight hair, hair blowing in wind, voluminous long hair
+(messy bun:1.2), hair up in bun, loose strands, casual updo, relaxed bun, hair sticks optional
+(ponytail:1.2), hair tied back, high ponytail, sleek ponytail, hair band, athletic hairstyle
+(short bob:1.3), bob cut, blunt cut, chin length hair, sleek bob, sharp bangs
+(twin tails:1.3), twintails, pigtails, hair ties, symmetrical twin ponytails, cute hairstyle
+(undercut:1.2), shaved sides, undercut hairstyle, short sides long top, faded undercut
+(wet hair:1.2), soaking wet hair, dripping hair, rain-soaked hair, wet strands clinging
+(white hair:1.3), silver hair, platinum hair, snow white hair, ethereal hair color
